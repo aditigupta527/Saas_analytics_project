@@ -1,0 +1,2001 @@
+customer_id,signup_date,plan_type,acquisition_channel,country,mrr
+C0001,2023-01-02,Starter,Organic,France,29
+C0002,2023-01-03,Starter,Organic,Australia,29
+C0003,2023-01-03,Starter,Referral,USA,29
+C0004,2023-01-03,Starter,Organic,USA,29
+C0005,2023-01-03,Enterprise,Organic,UK,399
+C0006,2023-01-03,Starter,Paid Search,France,29
+C0007,2023-01-03,Starter,Social,Other,29
+C0008,2023-01-03,Pro,Email,USA,99
+C0009,2023-01-04,Starter,Organic,Canada,29
+C0010,2023-01-04,Enterprise,Organic,India,399
+C0011,2023-01-05,Starter,Social,UK,29
+C0012,2023-01-05,Enterprise,Social,USA,399
+C0013,2023-01-05,Starter,Organic,USA,29
+C0014,2023-01-05,Starter,Email,UK,29
+C0015,2023-01-05,Pro,Organic,Germany,99
+C0016,2023-01-05,Pro,Organic,Canada,99
+C0017,2023-01-06,Pro,Organic,UK,99
+C0018,2023-01-06,Starter,Organic,Other,29
+C0019,2023-01-06,Pro,Social,UK,99
+C0020,2023-01-06,Starter,Social,UK,29
+C0021,2023-01-06,Starter,Paid Search,Australia,29
+C0022,2023-01-06,Starter,Organic,Australia,29
+C0023,2023-01-06,Starter,Organic,USA,29
+C0024,2023-01-07,Starter,Referral,UK,29
+C0025,2023-01-07,Starter,Email,Germany,29
+C0026,2023-01-07,Enterprise,Organic,UK,399
+C0027,2023-01-08,Enterprise,Referral,USA,399
+C0028,2023-01-08,Starter,Paid Search,France,29
+C0029,2023-01-09,Pro,Paid Search,USA,99
+C0030,2023-01-09,Pro,Referral,USA,99
+C0031,2023-01-09,Pro,Direct,USA,99
+C0032,2023-01-09,Pro,Organic,Australia,99
+C0033,2023-01-09,Pro,Social,Australia,99
+C0034,2023-01-09,Starter,Email,UK,29
+C0035,2023-01-09,Starter,Social,Australia,29
+C0036,2023-01-10,Starter,Email,France,29
+C0037,2023-01-10,Starter,Direct,USA,29
+C0038,2023-01-10,Starter,Organic,France,29
+C0039,2023-01-10,Pro,Organic,USA,99
+C0040,2023-01-10,Pro,Organic,France,99
+C0041,2023-01-11,Pro,Paid Search,Other,99
+C0042,2023-01-11,Starter,Direct,India,29
+C0043,2023-01-11,Pro,Organic,France,99
+C0044,2023-01-11,Starter,Organic,USA,29
+C0045,2023-01-11,Pro,Paid Search,Canada,99
+C0046,2023-01-11,Enterprise,Organic,Canada,399
+C0047,2023-01-12,Starter,Email,Germany,29
+C0048,2023-01-12,Pro,Referral,USA,99
+C0049,2023-01-12,Starter,Referral,UK,29
+C0050,2023-01-12,Starter,Paid Search,Germany,29
+C0051,2023-01-12,Starter,Organic,Canada,29
+C0052,2023-01-12,Pro,Organic,USA,99
+C0053,2023-01-12,Starter,Paid Search,UK,29
+C0054,2023-01-12,Pro,Social,India,99
+C0055,2023-01-12,Starter,Referral,UK,29
+C0056,2023-01-13,Enterprise,Social,USA,399
+C0057,2023-01-13,Pro,Paid Search,Canada,99
+C0058,2023-01-14,Starter,Organic,Germany,29
+C0059,2023-01-14,Starter,Referral,USA,29
+C0060,2023-01-14,Pro,Social,UK,99
+C0061,2023-01-14,Starter,Organic,USA,29
+C0062,2023-01-14,Starter,Social,Other,29
+C0063,2023-01-14,Enterprise,Referral,Australia,399
+C0064,2023-01-14,Pro,Organic,France,99
+C0065,2023-01-14,Pro,Social,USA,99
+C0066,2023-01-15,Starter,Paid Search,Germany,29
+C0067,2023-01-15,Pro,Paid Search,Other,99
+C0068,2023-01-15,Starter,Paid Search,USA,29
+C0069,2023-01-15,Pro,Email,USA,99
+C0070,2023-01-16,Enterprise,Organic,France,399
+C0071,2023-01-16,Pro,Referral,USA,99
+C0072,2023-01-16,Enterprise,Referral,USA,399
+C0073,2023-01-17,Pro,Organic,Germany,99
+C0074,2023-01-17,Starter,Referral,UK,29
+C0075,2023-01-17,Starter,Organic,USA,29
+C0076,2023-01-17,Starter,Paid Search,India,29
+C0077,2023-01-17,Starter,Organic,Canada,29
+C0078,2023-01-17,Starter,Email,Germany,29
+C0079,2023-01-17,Pro,Social,France,99
+C0080,2023-01-17,Starter,Organic,USA,29
+C0081,2023-01-18,Pro,Organic,India,99
+C0082,2023-01-18,Enterprise,Email,UK,399
+C0083,2023-01-18,Starter,Referral,India,29
+C0084,2023-01-18,Starter,Organic,France,29
+C0085,2023-01-18,Pro,Referral,Germany,99
+C0086,2023-01-18,Pro,Paid Search,USA,99
+C0087,2023-01-19,Starter,Paid Search,Australia,29
+C0088,2023-01-19,Pro,Email,USA,99
+C0089,2023-01-19,Pro,Social,India,99
+C0090,2023-01-19,Pro,Organic,UK,99
+C0091,2023-01-19,Starter,Paid Search,UK,29
+C0092,2023-01-19,Pro,Direct,India,99
+C0093,2023-01-19,Pro,Paid Search,India,99
+C0094,2023-01-20,Starter,Organic,USA,29
+C0095,2023-01-20,Starter,Organic,USA,29
+C0096,2023-01-20,Starter,Direct,USA,29
+C0097,2023-01-21,Starter,Organic,India,29
+C0098,2023-01-21,Starter,Organic,UK,29
+C0099,2023-01-21,Starter,Organic,USA,29
+C0100,2023-01-21,Starter,Organic,USA,29
+C0101,2023-01-21,Pro,Social,UK,99
+C0102,2023-01-21,Starter,Email,USA,29
+C0103,2023-01-21,Starter,Social,USA,29
+C0104,2023-01-22,Starter,Paid Search,Germany,29
+C0105,2023-01-22,Starter,Referral,Other,29
+C0106,2023-01-24,Starter,Organic,USA,29
+C0107,2023-01-24,Starter,Paid Search,France,29
+C0108,2023-01-24,Pro,Social,USA,99
+C0109,2023-01-24,Pro,Direct,Germany,99
+C0110,2023-01-24,Starter,Social,USA,29
+C0111,2023-01-25,Starter,Organic,India,29
+C0112,2023-01-26,Pro,Organic,USA,99
+C0113,2023-01-26,Starter,Paid Search,USA,29
+C0114,2023-01-26,Starter,Referral,USA,29
+C0115,2023-01-26,Starter,Paid Search,Other,29
+C0116,2023-01-26,Pro,Social,USA,99
+C0117,2023-01-27,Pro,Organic,India,99
+C0118,2023-01-27,Enterprise,Social,Germany,399
+C0119,2023-01-27,Pro,Organic,France,99
+C0120,2023-01-27,Starter,Paid Search,USA,29
+C0121,2023-01-27,Starter,Paid Search,USA,29
+C0122,2023-01-28,Starter,Social,USA,29
+C0123,2023-01-28,Starter,Social,USA,29
+C0124,2023-01-28,Pro,Social,Germany,99
+C0125,2023-01-28,Pro,Paid Search,Canada,99
+C0126,2023-01-28,Starter,Paid Search,Australia,29
+C0127,2023-01-29,Starter,Referral,Germany,29
+C0128,2023-01-29,Enterprise,Email,USA,399
+C0129,2023-01-29,Starter,Social,USA,29
+C0130,2023-01-30,Pro,Referral,Canada,99
+C0131,2023-01-30,Starter,Organic,USA,29
+C0132,2023-01-30,Starter,Email,USA,29
+C0133,2023-01-30,Starter,Organic,India,29
+C0134,2023-01-30,Pro,Paid Search,USA,99
+C0135,2023-01-31,Starter,Paid Search,Canada,29
+C0136,2023-01-31,Pro,Paid Search,USA,99
+C0137,2023-01-31,Enterprise,Paid Search,Canada,399
+C0138,2023-01-31,Starter,Paid Search,USA,29
+C0139,2023-01-31,Pro,Direct,USA,99
+C0140,2023-01-31,Starter,Organic,USA,29
+C0141,2023-01-31,Starter,Organic,Australia,29
+C0142,2023-02-01,Starter,Organic,France,29
+C0143,2023-02-01,Starter,Direct,USA,29
+C0144,2023-02-01,Enterprise,Social,Germany,399
+C0145,2023-02-02,Enterprise,Organic,Other,399
+C0146,2023-02-02,Starter,Paid Search,USA,29
+C0147,2023-02-02,Pro,Organic,UK,99
+C0148,2023-02-02,Pro,Referral,Germany,99
+C0149,2023-02-02,Starter,Paid Search,USA,29
+C0150,2023-02-02,Starter,Organic,USA,29
+C0151,2023-02-03,Starter,Direct,UK,29
+C0152,2023-02-03,Starter,Social,USA,29
+C0153,2023-02-03,Starter,Social,UK,29
+C0154,2023-02-03,Starter,Direct,France,29
+C0155,2023-02-03,Pro,Social,India,99
+C0156,2023-02-03,Starter,Paid Search,USA,29
+C0157,2023-02-04,Starter,Paid Search,USA,29
+C0158,2023-02-04,Enterprise,Email,Canada,399
+C0159,2023-02-04,Pro,Email,USA,99
+C0160,2023-02-05,Pro,Organic,Australia,99
+C0161,2023-02-05,Starter,Email,Other,29
+C0162,2023-02-05,Starter,Paid Search,Other,29
+C0163,2023-02-05,Starter,Email,India,29
+C0164,2023-02-05,Starter,Organic,USA,29
+C0165,2023-02-05,Pro,Paid Search,UK,99
+C0166,2023-02-06,Starter,Social,Germany,29
+C0167,2023-02-06,Enterprise,Paid Search,Germany,399
+C0168,2023-02-06,Pro,Social,Other,99
+C0169,2023-02-06,Starter,Organic,Germany,29
+C0170,2023-02-06,Starter,Referral,France,29
+C0171,2023-02-07,Starter,Email,USA,29
+C0172,2023-02-07,Pro,Social,France,99
+C0173,2023-02-07,Starter,Paid Search,Canada,29
+C0174,2023-02-07,Pro,Social,USA,99
+C0175,2023-02-07,Starter,Paid Search,Australia,29
+C0176,2023-02-07,Starter,Organic,Other,29
+C0177,2023-02-07,Starter,Direct,Canada,29
+C0178,2023-02-08,Pro,Organic,USA,99
+C0179,2023-02-08,Pro,Referral,Canada,99
+C0180,2023-02-08,Starter,Referral,Australia,29
+C0181,2023-02-08,Pro,Referral,Germany,99
+C0182,2023-02-08,Pro,Organic,UK,99
+C0183,2023-02-09,Starter,Paid Search,USA,29
+C0184,2023-02-09,Starter,Paid Search,USA,29
+C0185,2023-02-09,Pro,Email,USA,99
+C0186,2023-02-09,Enterprise,Paid Search,USA,399
+C0187,2023-02-09,Starter,Paid Search,Australia,29
+C0188,2023-02-09,Pro,Organic,USA,99
+C0189,2023-02-10,Starter,Organic,USA,29
+C0190,2023-02-10,Starter,Referral,France,29
+C0191,2023-02-10,Starter,Email,USA,29
+C0192,2023-02-10,Starter,Organic,India,29
+C0193,2023-02-10,Enterprise,Social,USA,399
+C0194,2023-02-10,Pro,Organic,France,99
+C0195,2023-02-11,Pro,Paid Search,India,99
+C0196,2023-02-11,Pro,Organic,Canada,99
+C0197,2023-02-11,Starter,Referral,Germany,29
+C0198,2023-02-11,Pro,Social,UK,99
+C0199,2023-02-12,Starter,Referral,USA,29
+C0200,2023-02-12,Starter,Organic,USA,29
+C0201,2023-02-12,Pro,Organic,Canada,99
+C0202,2023-02-12,Starter,Organic,UK,29
+C0203,2023-02-13,Starter,Organic,Canada,29
+C0204,2023-02-13,Starter,Referral,USA,29
+C0205,2023-02-13,Starter,Referral,USA,29
+C0206,2023-02-13,Starter,Paid Search,USA,29
+C0207,2023-02-13,Pro,Paid Search,Australia,99
+C0208,2023-02-14,Enterprise,Paid Search,France,399
+C0209,2023-02-14,Starter,Direct,USA,29
+C0210,2023-02-14,Pro,Paid Search,USA,99
+C0211,2023-02-15,Pro,Referral,USA,99
+C0212,2023-02-15,Starter,Referral,India,29
+C0213,2023-02-15,Enterprise,Referral,Other,399
+C0214,2023-02-15,Pro,Organic,USA,99
+C0215,2023-02-15,Pro,Social,USA,99
+C0216,2023-02-15,Starter,Direct,UK,29
+C0217,2023-02-16,Starter,Paid Search,USA,29
+C0218,2023-02-16,Starter,Paid Search,USA,29
+C0219,2023-02-16,Pro,Paid Search,Germany,99
+C0220,2023-02-16,Enterprise,Organic,India,399
+C0221,2023-02-16,Starter,Email,USA,29
+C0222,2023-02-17,Pro,Social,USA,99
+C0223,2023-02-17,Starter,Social,Canada,29
+C0224,2023-02-17,Starter,Social,USA,29
+C0225,2023-02-18,Pro,Organic,France,99
+C0226,2023-02-18,Starter,Paid Search,USA,29
+C0227,2023-02-18,Starter,Paid Search,USA,29
+C0228,2023-02-18,Pro,Organic,USA,99
+C0229,2023-02-18,Starter,Organic,USA,29
+C0230,2023-02-19,Starter,Paid Search,USA,29
+C0231,2023-02-19,Pro,Social,USA,99
+C0232,2023-02-19,Starter,Direct,UK,29
+C0233,2023-02-19,Pro,Paid Search,Australia,99
+C0234,2023-02-19,Pro,Paid Search,Other,99
+C0235,2023-02-20,Starter,Organic,Australia,29
+C0236,2023-02-20,Pro,Organic,USA,99
+C0237,2023-02-21,Starter,Organic,Australia,29
+C0238,2023-02-21,Pro,Paid Search,USA,99
+C0239,2023-02-21,Starter,Organic,India,29
+C0240,2023-02-21,Enterprise,Referral,USA,399
+C0241,2023-02-21,Enterprise,Referral,Australia,399
+C0242,2023-02-22,Starter,Paid Search,USA,29
+C0243,2023-02-22,Starter,Organic,USA,29
+C0244,2023-02-22,Starter,Referral,UK,29
+C0245,2023-02-22,Starter,Direct,Other,29
+C0246,2023-02-23,Pro,Direct,UK,99
+C0247,2023-02-23,Enterprise,Organic,USA,399
+C0248,2023-02-24,Starter,Organic,USA,29
+C0249,2023-02-24,Pro,Referral,India,99
+C0250,2023-02-24,Starter,Referral,India,29
+C0251,2023-02-24,Starter,Social,USA,29
+C0252,2023-02-24,Starter,Email,USA,29
+C0253,2023-02-24,Starter,Email,Canada,29
+C0254,2023-02-24,Starter,Organic,USA,29
+C0255,2023-02-25,Pro,Paid Search,USA,99
+C0256,2023-02-25,Enterprise,Paid Search,USA,399
+C0257,2023-02-25,Pro,Social,USA,99
+C0258,2023-02-25,Starter,Referral,UK,29
+C0259,2023-02-25,Pro,Paid Search,USA,99
+C0260,2023-02-25,Starter,Paid Search,USA,29
+C0261,2023-02-26,Starter,Referral,Other,29
+C0262,2023-02-26,Pro,Email,USA,99
+C0263,2023-02-26,Enterprise,Organic,Other,399
+C0264,2023-02-26,Enterprise,Referral,Other,399
+C0265,2023-02-26,Pro,Organic,USA,99
+C0266,2023-02-26,Pro,Organic,India,99
+C0267,2023-02-26,Enterprise,Organic,Australia,399
+C0268,2023-02-27,Enterprise,Email,Other,399
+C0269,2023-02-27,Pro,Direct,Australia,99
+C0270,2023-02-28,Starter,Paid Search,Canada,29
+C0271,2023-02-28,Starter,Social,India,29
+C0272,2023-02-28,Starter,Social,Australia,29
+C0273,2023-03-01,Starter,Organic,USA,29
+C0274,2023-03-01,Starter,Email,USA,29
+C0275,2023-03-01,Pro,Organic,USA,99
+C0276,2023-03-01,Pro,Referral,USA,99
+C0277,2023-03-02,Starter,Organic,UK,29
+C0278,2023-03-02,Pro,Organic,USA,99
+C0279,2023-03-02,Starter,Email,Other,29
+C0280,2023-03-02,Starter,Referral,USA,29
+C0281,2023-03-02,Starter,Referral,France,29
+C0282,2023-03-02,Enterprise,Social,USA,399
+C0283,2023-03-02,Pro,Organic,UK,99
+C0284,2023-03-03,Starter,Social,USA,29
+C0285,2023-03-03,Starter,Email,USA,29
+C0286,2023-03-03,Pro,Organic,USA,99
+C0287,2023-03-03,Starter,Organic,Germany,29
+C0288,2023-03-03,Starter,Direct,India,29
+C0289,2023-03-03,Starter,Social,UK,29
+C0290,2023-03-04,Pro,Organic,USA,99
+C0291,2023-03-04,Enterprise,Email,France,399
+C0292,2023-03-04,Starter,Referral,UK,29
+C0293,2023-03-05,Starter,Organic,India,29
+C0294,2023-03-05,Starter,Paid Search,Germany,29
+C0295,2023-03-05,Starter,Organic,USA,29
+C0296,2023-03-05,Enterprise,Paid Search,USA,399
+C0297,2023-03-06,Pro,Referral,USA,99
+C0298,2023-03-06,Pro,Referral,India,99
+C0299,2023-03-06,Starter,Email,UK,29
+C0300,2023-03-06,Starter,Paid Search,USA,29
+C0301,2023-03-06,Starter,Referral,USA,29
+C0302,2023-03-06,Starter,Paid Search,USA,29
+C0303,2023-03-07,Enterprise,Organic,USA,399
+C0304,2023-03-07,Starter,Organic,USA,29
+C0305,2023-03-07,Pro,Direct,USA,99
+C0306,2023-03-07,Pro,Referral,Germany,99
+C0307,2023-03-07,Starter,Paid Search,USA,29
+C0308,2023-03-07,Pro,Referral,USA,99
+C0309,2023-03-08,Starter,Email,Australia,29
+C0310,2023-03-08,Enterprise,Referral,USA,399
+C0311,2023-03-08,Pro,Social,USA,99
+C0312,2023-03-08,Pro,Referral,USA,99
+C0313,2023-03-09,Pro,Social,Other,99
+C0314,2023-03-09,Starter,Organic,India,29
+C0315,2023-03-09,Starter,Referral,Australia,29
+C0316,2023-03-10,Starter,Paid Search,UK,29
+C0317,2023-03-11,Starter,Email,Germany,29
+C0318,2023-03-11,Pro,Referral,UK,99
+C0319,2023-03-11,Enterprise,Social,Canada,399
+C0320,2023-03-12,Enterprise,Organic,Australia,399
+C0321,2023-03-12,Starter,Paid Search,USA,29
+C0322,2023-03-12,Enterprise,Email,Canada,399
+C0323,2023-03-13,Pro,Social,Other,99
+C0324,2023-03-13,Starter,Paid Search,USA,29
+C0325,2023-03-13,Pro,Referral,USA,99
+C0326,2023-03-13,Starter,Referral,USA,29
+C0327,2023-03-13,Pro,Direct,USA,99
+C0328,2023-03-14,Starter,Referral,Germany,29
+C0329,2023-03-14,Pro,Direct,USA,99
+C0330,2023-03-14,Pro,Referral,Germany,99
+C0331,2023-03-14,Starter,Referral,UK,29
+C0332,2023-03-14,Starter,Organic,Germany,29
+C0333,2023-03-14,Starter,Paid Search,USA,29
+C0334,2023-03-14,Enterprise,Social,Australia,399
+C0335,2023-03-15,Starter,Social,India,29
+C0336,2023-03-15,Pro,Email,USA,99
+C0337,2023-03-15,Pro,Organic,UK,99
+C0338,2023-03-16,Starter,Paid Search,USA,29
+C0339,2023-03-16,Pro,Paid Search,Canada,99
+C0340,2023-03-16,Starter,Organic,Australia,29
+C0341,2023-03-16,Starter,Paid Search,Canada,29
+C0342,2023-03-17,Starter,Organic,USA,29
+C0343,2023-03-17,Enterprise,Social,Canada,399
+C0344,2023-03-18,Pro,Organic,USA,99
+C0345,2023-03-18,Pro,Organic,USA,99
+C0346,2023-03-18,Starter,Paid Search,Other,29
+C0347,2023-03-18,Starter,Paid Search,USA,29
+C0348,2023-03-18,Enterprise,Organic,USA,399
+C0349,2023-03-19,Pro,Referral,USA,99
+C0350,2023-03-19,Starter,Paid Search,USA,29
+C0351,2023-03-19,Starter,Paid Search,USA,29
+C0352,2023-03-19,Starter,Social,Other,29
+C0353,2023-03-20,Pro,Organic,USA,99
+C0354,2023-03-20,Enterprise,Organic,USA,399
+C0355,2023-03-20,Pro,Social,India,99
+C0356,2023-03-20,Starter,Organic,Other,29
+C0357,2023-03-20,Starter,Social,Canada,29
+C0358,2023-03-21,Pro,Paid Search,USA,99
+C0359,2023-03-22,Pro,Email,Other,99
+C0360,2023-03-22,Starter,Organic,Other,29
+C0361,2023-03-22,Pro,Email,USA,99
+C0362,2023-03-22,Pro,Referral,Canada,99
+C0363,2023-03-22,Starter,Organic,India,29
+C0364,2023-03-23,Starter,Paid Search,Other,29
+C0365,2023-03-23,Starter,Referral,USA,29
+C0366,2023-03-23,Pro,Direct,USA,99
+C0367,2023-03-23,Starter,Paid Search,USA,29
+C0368,2023-03-24,Pro,Email,USA,99
+C0369,2023-03-24,Starter,Paid Search,Canada,29
+C0370,2023-03-24,Starter,Social,India,29
+C0371,2023-03-25,Pro,Organic,Canada,99
+C0372,2023-03-25,Starter,Organic,Germany,29
+C0373,2023-03-25,Pro,Organic,USA,99
+C0374,2023-03-25,Starter,Organic,USA,29
+C0375,2023-03-25,Starter,Paid Search,Canada,29
+C0376,2023-03-25,Pro,Social,USA,99
+C0377,2023-03-25,Enterprise,Referral,Australia,399
+C0378,2023-03-26,Pro,Email,UK,99
+C0379,2023-03-26,Starter,Social,Canada,29
+C0380,2023-03-26,Pro,Paid Search,USA,99
+C0381,2023-03-26,Starter,Email,India,29
+C0382,2023-03-27,Pro,Organic,USA,99
+C0383,2023-03-27,Enterprise,Social,Australia,399
+C0384,2023-03-27,Starter,Social,USA,29
+C0385,2023-03-27,Pro,Paid Search,USA,99
+C0386,2023-03-27,Pro,Email,USA,99
+C0387,2023-03-27,Pro,Organic,USA,99
+C0388,2023-03-27,Starter,Paid Search,UK,29
+C0389,2023-03-28,Starter,Paid Search,France,29
+C0390,2023-03-28,Starter,Referral,USA,29
+C0391,2023-03-29,Pro,Organic,USA,99
+C0392,2023-03-29,Starter,Organic,USA,29
+C0393,2023-03-29,Pro,Email,Germany,99
+C0394,2023-03-29,Pro,Organic,USA,99
+C0395,2023-03-29,Starter,Organic,UK,29
+C0396,2023-03-29,Pro,Paid Search,USA,99
+C0397,2023-03-29,Pro,Referral,USA,99
+C0398,2023-03-29,Enterprise,Direct,USA,399
+C0399,2023-03-29,Starter,Paid Search,Other,29
+C0400,2023-03-29,Enterprise,Organic,USA,399
+C0401,2023-03-30,Pro,Paid Search,USA,99
+C0402,2023-03-30,Enterprise,Social,Germany,399
+C0403,2023-03-31,Enterprise,Referral,USA,399
+C0404,2023-03-31,Pro,Organic,Canada,99
+C0405,2023-03-31,Starter,Social,USA,29
+C0406,2023-03-31,Starter,Organic,USA,29
+C0407,2023-03-31,Pro,Referral,UK,99
+C0408,2023-03-31,Starter,Organic,USA,29
+C0409,2023-04-01,Starter,Email,USA,29
+C0410,2023-04-01,Starter,Organic,USA,29
+C0411,2023-04-01,Pro,Social,USA,99
+C0412,2023-04-01,Starter,Paid Search,USA,29
+C0413,2023-04-01,Starter,Direct,India,29
+C0414,2023-04-01,Pro,Paid Search,USA,99
+C0415,2023-04-02,Pro,Social,Canada,99
+C0416,2023-04-02,Starter,Paid Search,USA,29
+C0417,2023-04-03,Enterprise,Social,UK,399
+C0418,2023-04-04,Starter,Social,USA,29
+C0419,2023-04-04,Starter,Organic,Canada,29
+C0420,2023-04-05,Starter,Paid Search,France,29
+C0421,2023-04-06,Starter,Paid Search,USA,29
+C0422,2023-04-06,Starter,Referral,USA,29
+C0423,2023-04-06,Starter,Social,India,29
+C0424,2023-04-06,Pro,Organic,USA,99
+C0425,2023-04-07,Pro,Paid Search,Germany,99
+C0426,2023-04-08,Pro,Referral,UK,99
+C0427,2023-04-08,Starter,Referral,UK,29
+C0428,2023-04-08,Starter,Email,France,29
+C0429,2023-04-08,Starter,Organic,USA,29
+C0430,2023-04-09,Pro,Email,USA,99
+C0431,2023-04-09,Starter,Email,USA,29
+C0432,2023-04-09,Pro,Direct,USA,99
+C0433,2023-04-09,Pro,Organic,USA,99
+C0434,2023-04-10,Pro,Paid Search,Other,99
+C0435,2023-04-10,Pro,Paid Search,USA,99
+C0436,2023-04-11,Starter,Paid Search,USA,29
+C0437,2023-04-11,Starter,Paid Search,Canada,29
+C0438,2023-04-11,Pro,Referral,USA,99
+C0439,2023-04-11,Starter,Social,UK,29
+C0440,2023-04-12,Starter,Referral,Australia,29
+C0441,2023-04-12,Pro,Organic,Australia,99
+C0442,2023-04-13,Pro,Referral,Australia,99
+C0443,2023-04-13,Pro,Paid Search,USA,99
+C0444,2023-04-13,Pro,Social,Canada,99
+C0445,2023-04-14,Starter,Organic,France,29
+C0446,2023-04-14,Pro,Email,Australia,99
+C0447,2023-04-15,Pro,Social,France,99
+C0448,2023-04-15,Pro,Social,USA,99
+C0449,2023-04-15,Starter,Referral,USA,29
+C0450,2023-04-15,Starter,Paid Search,USA,29
+C0451,2023-04-15,Starter,Paid Search,France,29
+C0452,2023-04-16,Pro,Organic,USA,99
+C0453,2023-04-16,Pro,Paid Search,Germany,99
+C0454,2023-04-17,Pro,Referral,USA,99
+C0455,2023-04-17,Pro,Organic,Other,99
+C0456,2023-04-17,Pro,Paid Search,USA,99
+C0457,2023-04-17,Starter,Social,USA,29
+C0458,2023-04-17,Pro,Organic,India,99
+C0459,2023-04-18,Pro,Referral,Australia,99
+C0460,2023-04-19,Starter,Organic,Canada,29
+C0461,2023-04-19,Starter,Paid Search,USA,29
+C0462,2023-04-20,Starter,Organic,Germany,29
+C0463,2023-04-20,Starter,Social,USA,29
+C0464,2023-04-20,Pro,Paid Search,France,99
+C0465,2023-04-20,Enterprise,Paid Search,France,399
+C0466,2023-04-20,Enterprise,Referral,Germany,399
+C0467,2023-04-21,Starter,Social,USA,29
+C0468,2023-04-21,Starter,Direct,USA,29
+C0469,2023-04-21,Pro,Referral,Germany,99
+C0470,2023-04-22,Enterprise,Organic,USA,399
+C0471,2023-04-22,Starter,Organic,USA,29
+C0472,2023-04-22,Starter,Referral,UK,29
+C0473,2023-04-22,Starter,Social,USA,29
+C0474,2023-04-23,Starter,Referral,India,29
+C0475,2023-04-23,Pro,Organic,Germany,99
+C0476,2023-04-23,Pro,Social,India,99
+C0477,2023-04-24,Enterprise,Social,India,399
+C0478,2023-04-24,Enterprise,Referral,USA,399
+C0479,2023-04-24,Pro,Paid Search,USA,99
+C0480,2023-04-24,Pro,Email,France,99
+C0481,2023-04-24,Starter,Paid Search,USA,29
+C0482,2023-04-25,Enterprise,Direct,India,399
+C0483,2023-04-25,Pro,Referral,India,99
+C0484,2023-04-25,Starter,Paid Search,Canada,29
+C0485,2023-04-25,Pro,Paid Search,Other,99
+C0486,2023-04-26,Starter,Paid Search,Canada,29
+C0487,2023-04-26,Pro,Social,USA,99
+C0488,2023-04-26,Starter,Social,India,29
+C0489,2023-04-26,Starter,Referral,UK,29
+C0490,2023-04-27,Pro,Referral,USA,99
+C0491,2023-04-27,Starter,Referral,India,29
+C0492,2023-04-27,Pro,Referral,Australia,99
+C0493,2023-04-28,Enterprise,Paid Search,UK,399
+C0494,2023-04-28,Starter,Organic,India,29
+C0495,2023-04-29,Starter,Email,India,29
+C0496,2023-04-29,Pro,Paid Search,USA,99
+C0497,2023-04-29,Starter,Paid Search,USA,29
+C0498,2023-04-29,Pro,Email,France,99
+C0499,2023-04-29,Pro,Organic,Germany,99
+C0500,2023-04-29,Enterprise,Organic,Canada,399
+C0501,2023-04-30,Starter,Referral,Other,29
+C0502,2023-04-30,Starter,Email,India,29
+C0503,2023-04-30,Enterprise,Paid Search,Germany,399
+C0504,2023-04-30,Starter,Paid Search,USA,29
+C0505,2023-05-01,Enterprise,Referral,Germany,399
+C0506,2023-05-01,Enterprise,Organic,USA,399
+C0507,2023-05-01,Starter,Organic,USA,29
+C0508,2023-05-02,Starter,Organic,USA,29
+C0509,2023-05-02,Starter,Organic,Other,29
+C0510,2023-05-02,Pro,Direct,USA,99
+C0511,2023-05-02,Starter,Referral,USA,29
+C0512,2023-05-02,Starter,Organic,USA,29
+C0513,2023-05-03,Starter,Paid Search,Canada,29
+C0514,2023-05-03,Starter,Organic,Australia,29
+C0515,2023-05-03,Starter,Paid Search,Germany,29
+C0516,2023-05-04,Starter,Organic,UK,29
+C0517,2023-05-04,Starter,Social,Australia,29
+C0518,2023-05-04,Starter,Social,UK,29
+C0519,2023-05-05,Starter,Social,USA,29
+C0520,2023-05-05,Starter,Organic,UK,29
+C0521,2023-05-05,Starter,Referral,USA,29
+C0522,2023-05-05,Starter,Paid Search,Canada,29
+C0523,2023-05-05,Pro,Social,Australia,99
+C0524,2023-05-06,Enterprise,Paid Search,UK,399
+C0525,2023-05-06,Pro,Direct,France,99
+C0526,2023-05-06,Starter,Organic,UK,29
+C0527,2023-05-06,Pro,Paid Search,UK,99
+C0528,2023-05-07,Pro,Paid Search,Germany,99
+C0529,2023-05-08,Starter,Paid Search,UK,29
+C0530,2023-05-08,Pro,Organic,USA,99
+C0531,2023-05-08,Enterprise,Organic,UK,399
+C0532,2023-05-08,Pro,Paid Search,India,99
+C0533,2023-05-09,Starter,Social,USA,29
+C0534,2023-05-09,Pro,Organic,India,99
+C0535,2023-05-10,Starter,Organic,USA,29
+C0536,2023-05-10,Starter,Referral,USA,29
+C0537,2023-05-11,Enterprise,Direct,India,399
+C0538,2023-05-11,Starter,Paid Search,Australia,29
+C0539,2023-05-11,Starter,Organic,UK,29
+C0540,2023-05-11,Pro,Referral,USA,99
+C0541,2023-05-11,Pro,Organic,USA,99
+C0542,2023-05-11,Enterprise,Organic,USA,399
+C0543,2023-05-12,Starter,Email,Australia,29
+C0544,2023-05-12,Pro,Referral,USA,99
+C0545,2023-05-12,Starter,Paid Search,USA,29
+C0546,2023-05-12,Starter,Email,USA,29
+C0547,2023-05-12,Starter,Organic,USA,29
+C0548,2023-05-12,Enterprise,Paid Search,UK,399
+C0549,2023-05-14,Pro,Organic,UK,99
+C0550,2023-05-14,Starter,Social,Other,29
+C0551,2023-05-15,Pro,Paid Search,Germany,99
+C0552,2023-05-15,Starter,Organic,USA,29
+C0553,2023-05-16,Starter,Paid Search,India,29
+C0554,2023-05-17,Enterprise,Paid Search,UK,399
+C0555,2023-05-17,Starter,Organic,UK,29
+C0556,2023-05-18,Starter,Referral,USA,29
+C0557,2023-05-18,Starter,Paid Search,USA,29
+C0558,2023-05-18,Starter,Referral,USA,29
+C0559,2023-05-18,Pro,Organic,USA,99
+C0560,2023-05-18,Starter,Referral,USA,29
+C0561,2023-05-19,Pro,Organic,Australia,99
+C0562,2023-05-19,Starter,Social,UK,29
+C0563,2023-05-19,Enterprise,Paid Search,USA,399
+C0564,2023-05-20,Starter,Referral,UK,29
+C0565,2023-05-20,Pro,Organic,USA,99
+C0566,2023-05-20,Starter,Direct,India,29
+C0567,2023-05-20,Enterprise,Organic,India,399
+C0568,2023-05-20,Pro,Paid Search,Germany,99
+C0569,2023-05-20,Enterprise,Email,Canada,399
+C0570,2023-05-21,Starter,Organic,Other,29
+C0571,2023-05-21,Starter,Referral,Canada,29
+C0572,2023-05-21,Pro,Direct,USA,99
+C0573,2023-05-21,Starter,Organic,USA,29
+C0574,2023-05-21,Starter,Paid Search,Germany,29
+C0575,2023-05-22,Enterprise,Organic,USA,399
+C0576,2023-05-22,Enterprise,Organic,USA,399
+C0577,2023-05-23,Starter,Social,USA,29
+C0578,2023-05-24,Enterprise,Paid Search,UK,399
+C0579,2023-05-24,Starter,Paid Search,India,29
+C0580,2023-05-24,Pro,Referral,India,99
+C0581,2023-05-24,Enterprise,Referral,Australia,399
+C0582,2023-05-25,Starter,Organic,USA,29
+C0583,2023-05-25,Pro,Paid Search,USA,99
+C0584,2023-05-25,Enterprise,Email,France,399
+C0585,2023-05-26,Starter,Social,USA,29
+C0586,2023-05-26,Starter,Organic,USA,29
+C0587,2023-05-26,Starter,Referral,USA,29
+C0588,2023-05-27,Pro,Paid Search,USA,99
+C0589,2023-05-27,Starter,Organic,India,29
+C0590,2023-05-27,Starter,Organic,USA,29
+C0591,2023-05-27,Pro,Email,USA,99
+C0592,2023-05-28,Pro,Social,Other,99
+C0593,2023-05-28,Pro,Social,India,99
+C0594,2023-05-28,Enterprise,Paid Search,USA,399
+C0595,2023-05-29,Starter,Referral,Australia,29
+C0596,2023-05-29,Starter,Social,UK,29
+C0597,2023-05-30,Starter,Direct,USA,29
+C0598,2023-05-30,Starter,Social,Canada,29
+C0599,2023-05-30,Starter,Social,UK,29
+C0600,2023-05-31,Starter,Organic,UK,29
+C0601,2023-06-01,Starter,Email,Germany,29
+C0602,2023-06-01,Enterprise,Organic,Other,399
+C0603,2023-06-01,Starter,Paid Search,USA,29
+C0604,2023-06-01,Starter,Social,UK,29
+C0605,2023-06-01,Starter,Social,USA,29
+C0606,2023-06-02,Pro,Paid Search,Germany,99
+C0607,2023-06-02,Pro,Paid Search,USA,99
+C0608,2023-06-02,Starter,Referral,USA,29
+C0609,2023-06-03,Starter,Organic,UK,29
+C0610,2023-06-03,Starter,Referral,USA,29
+C0611,2023-06-04,Starter,Referral,Germany,29
+C0612,2023-06-04,Starter,Paid Search,USA,29
+C0613,2023-06-04,Enterprise,Organic,Other,399
+C0614,2023-06-04,Pro,Paid Search,USA,99
+C0615,2023-06-05,Starter,Paid Search,USA,29
+C0616,2023-06-06,Pro,Direct,UK,99
+C0617,2023-06-06,Pro,Organic,USA,99
+C0618,2023-06-07,Starter,Social,Other,29
+C0619,2023-06-08,Pro,Organic,USA,99
+C0620,2023-06-08,Pro,Paid Search,Germany,99
+C0621,2023-06-08,Pro,Social,USA,99
+C0622,2023-06-09,Starter,Organic,USA,29
+C0623,2023-06-09,Starter,Social,India,29
+C0624,2023-06-09,Starter,Paid Search,USA,29
+C0625,2023-06-09,Starter,Referral,USA,29
+C0626,2023-06-10,Starter,Organic,Germany,29
+C0627,2023-06-10,Pro,Organic,UK,99
+C0628,2023-06-11,Pro,Direct,USA,99
+C0629,2023-06-12,Enterprise,Email,France,399
+C0630,2023-06-12,Pro,Social,USA,99
+C0631,2023-06-13,Pro,Paid Search,Canada,99
+C0632,2023-06-13,Starter,Referral,Germany,29
+C0633,2023-06-13,Starter,Referral,UK,29
+C0634,2023-06-13,Pro,Paid Search,USA,99
+C0635,2023-06-13,Enterprise,Organic,Germany,399
+C0636,2023-06-15,Starter,Paid Search,USA,29
+C0637,2023-06-15,Pro,Paid Search,USA,99
+C0638,2023-06-15,Starter,Organic,Other,29
+C0639,2023-06-16,Enterprise,Paid Search,Canada,399
+C0640,2023-06-16,Starter,Social,Australia,29
+C0641,2023-06-17,Enterprise,Paid Search,Australia,399
+C0642,2023-06-18,Starter,Direct,USA,29
+C0643,2023-06-18,Pro,Social,Canada,99
+C0644,2023-06-18,Starter,Email,USA,29
+C0645,2023-06-18,Pro,Organic,USA,99
+C0646,2023-06-18,Pro,Paid Search,USA,99
+C0647,2023-06-19,Starter,Paid Search,Australia,29
+C0648,2023-06-20,Enterprise,Organic,USA,399
+C0649,2023-06-20,Starter,Organic,India,29
+C0650,2023-06-20,Pro,Organic,USA,99
+C0651,2023-06-20,Starter,Referral,Other,29
+C0652,2023-06-21,Starter,Organic,Germany,29
+C0653,2023-06-21,Enterprise,Paid Search,USA,399
+C0654,2023-06-21,Starter,Social,USA,29
+C0655,2023-06-21,Starter,Social,USA,29
+C0656,2023-06-21,Pro,Paid Search,USA,99
+C0657,2023-06-21,Pro,Paid Search,Other,99
+C0658,2023-06-22,Pro,Organic,Canada,99
+C0659,2023-06-22,Starter,Email,USA,29
+C0660,2023-06-22,Pro,Organic,USA,99
+C0661,2023-06-22,Pro,Referral,USA,99
+C0662,2023-06-23,Starter,Referral,Other,29
+C0663,2023-06-23,Starter,Paid Search,USA,29
+C0664,2023-06-23,Enterprise,Organic,USA,399
+C0665,2023-06-23,Pro,Organic,UK,99
+C0666,2023-06-24,Starter,Paid Search,USA,29
+C0667,2023-06-24,Pro,Organic,India,99
+C0668,2023-06-24,Pro,Referral,USA,99
+C0669,2023-06-25,Starter,Organic,USA,29
+C0670,2023-06-27,Starter,Social,USA,29
+C0671,2023-06-27,Starter,Paid Search,Canada,29
+C0672,2023-06-28,Starter,Social,USA,29
+C0673,2023-06-28,Enterprise,Email,USA,399
+C0674,2023-06-28,Starter,Paid Search,USA,29
+C0675,2023-06-28,Pro,Referral,Canada,99
+C0676,2023-06-28,Pro,Paid Search,USA,99
+C0677,2023-06-28,Pro,Paid Search,Canada,99
+C0678,2023-06-29,Starter,Organic,Other,29
+C0679,2023-06-29,Starter,Direct,Other,29
+C0680,2023-06-30,Pro,Social,India,99
+C0681,2023-06-30,Enterprise,Organic,UK,399
+C0682,2023-06-30,Pro,Paid Search,USA,99
+C0683,2023-06-30,Starter,Social,Germany,29
+C0684,2023-07-01,Starter,Email,Canada,29
+C0685,2023-07-01,Pro,Social,Australia,99
+C0686,2023-07-01,Starter,Referral,USA,29
+C0687,2023-07-02,Enterprise,Direct,USA,399
+C0688,2023-07-02,Starter,Referral,USA,29
+C0689,2023-07-02,Enterprise,Organic,USA,399
+C0690,2023-07-03,Enterprise,Social,Germany,399
+C0691,2023-07-03,Starter,Social,India,29
+C0692,2023-07-03,Pro,Social,India,99
+C0693,2023-07-05,Starter,Organic,Australia,29
+C0694,2023-07-05,Starter,Social,USA,29
+C0695,2023-07-05,Pro,Referral,USA,99
+C0696,2023-07-05,Starter,Organic,India,29
+C0697,2023-07-06,Pro,Organic,Canada,99
+C0698,2023-07-06,Starter,Paid Search,France,29
+C0699,2023-07-06,Starter,Paid Search,USA,29
+C0700,2023-07-07,Starter,Organic,USA,29
+C0701,2023-07-07,Pro,Paid Search,UK,99
+C0702,2023-07-07,Starter,Organic,India,29
+C0703,2023-07-07,Enterprise,Organic,France,399
+C0704,2023-07-08,Pro,Social,UK,99
+C0705,2023-07-08,Starter,Organic,India,29
+C0706,2023-07-08,Starter,Email,USA,29
+C0707,2023-07-09,Starter,Referral,USA,29
+C0708,2023-07-09,Pro,Social,France,99
+C0709,2023-07-09,Pro,Social,Canada,99
+C0710,2023-07-09,Enterprise,Organic,USA,399
+C0711,2023-07-09,Starter,Organic,India,29
+C0712,2023-07-10,Pro,Social,USA,99
+C0713,2023-07-10,Pro,Paid Search,India,99
+C0714,2023-07-10,Pro,Paid Search,USA,99
+C0715,2023-07-11,Starter,Referral,France,29
+C0716,2023-07-12,Pro,Organic,USA,99
+C0717,2023-07-12,Pro,Referral,USA,99
+C0718,2023-07-12,Starter,Referral,USA,29
+C0719,2023-07-12,Starter,Organic,UK,29
+C0720,2023-07-12,Enterprise,Direct,UK,399
+C0721,2023-07-12,Pro,Organic,UK,99
+C0722,2023-07-13,Starter,Social,USA,29
+C0723,2023-07-14,Starter,Organic,USA,29
+C0724,2023-07-14,Starter,Organic,Other,29
+C0725,2023-07-14,Starter,Paid Search,Germany,29
+C0726,2023-07-14,Enterprise,Social,Germany,399
+C0727,2023-07-15,Starter,Paid Search,USA,29
+C0728,2023-07-15,Pro,Social,USA,99
+C0729,2023-07-15,Starter,Social,USA,29
+C0730,2023-07-16,Pro,Social,Canada,99
+C0731,2023-07-17,Pro,Email,UK,99
+C0732,2023-07-17,Pro,Social,USA,99
+C0733,2023-07-17,Starter,Organic,USA,29
+C0734,2023-07-17,Pro,Referral,USA,99
+C0735,2023-07-18,Starter,Direct,USA,29
+C0736,2023-07-19,Starter,Social,UK,29
+C0737,2023-07-19,Starter,Organic,USA,29
+C0738,2023-07-20,Pro,Paid Search,USA,99
+C0739,2023-07-20,Pro,Referral,USA,99
+C0740,2023-07-20,Starter,Social,USA,29
+C0741,2023-07-20,Starter,Social,France,29
+C0742,2023-07-20,Pro,Social,Canada,99
+C0743,2023-07-21,Starter,Social,UK,29
+C0744,2023-07-21,Starter,Referral,UK,29
+C0745,2023-07-21,Starter,Email,USA,29
+C0746,2023-07-22,Starter,Organic,Australia,29
+C0747,2023-07-22,Pro,Paid Search,Canada,99
+C0748,2023-07-22,Starter,Referral,UK,29
+C0749,2023-07-23,Starter,Email,USA,29
+C0750,2023-07-23,Starter,Social,Other,29
+C0751,2023-07-23,Starter,Organic,USA,29
+C0752,2023-07-24,Pro,Organic,India,99
+C0753,2023-07-24,Enterprise,Paid Search,USA,399
+C0754,2023-07-24,Starter,Organic,France,29
+C0755,2023-07-25,Starter,Paid Search,India,29
+C0756,2023-07-25,Starter,Social,USA,29
+C0757,2023-07-25,Pro,Email,India,99
+C0758,2023-07-25,Enterprise,Organic,UK,399
+C0759,2023-07-26,Pro,Social,USA,99
+C0760,2023-07-26,Starter,Organic,USA,29
+C0761,2023-07-26,Starter,Referral,USA,29
+C0762,2023-07-26,Starter,Social,India,29
+C0763,2023-07-27,Enterprise,Social,USA,399
+C0764,2023-07-27,Pro,Paid Search,USA,99
+C0765,2023-07-29,Pro,Email,USA,99
+C0766,2023-07-29,Starter,Organic,USA,29
+C0767,2023-07-29,Starter,Social,USA,29
+C0768,2023-07-29,Enterprise,Referral,India,399
+C0769,2023-07-30,Pro,Organic,UK,99
+C0770,2023-07-30,Pro,Referral,Australia,99
+C0771,2023-07-31,Starter,Email,USA,29
+C0772,2023-08-01,Enterprise,Direct,USA,399
+C0773,2023-08-01,Pro,Organic,USA,99
+C0774,2023-08-01,Pro,Social,Other,99
+C0775,2023-08-01,Pro,Paid Search,Australia,99
+C0776,2023-08-02,Enterprise,Organic,Other,399
+C0777,2023-08-03,Starter,Referral,USA,29
+C0778,2023-08-04,Starter,Paid Search,India,29
+C0779,2023-08-04,Starter,Organic,India,29
+C0780,2023-08-04,Enterprise,Paid Search,USA,399
+C0781,2023-08-04,Starter,Organic,Germany,29
+C0782,2023-08-04,Pro,Social,USA,99
+C0783,2023-08-06,Pro,Social,Germany,99
+C0784,2023-08-06,Pro,Referral,India,99
+C0785,2023-08-06,Starter,Direct,UK,29
+C0786,2023-08-07,Pro,Organic,India,99
+C0787,2023-08-07,Pro,Organic,USA,99
+C0788,2023-08-07,Pro,Referral,UK,99
+C0789,2023-08-07,Starter,Social,USA,29
+C0790,2023-08-08,Starter,Organic,USA,29
+C0791,2023-08-08,Starter,Paid Search,USA,29
+C0792,2023-08-09,Starter,Paid Search,UK,29
+C0793,2023-08-10,Starter,Referral,USA,29
+C0794,2023-08-10,Pro,Organic,USA,99
+C0795,2023-08-10,Pro,Social,Germany,99
+C0796,2023-08-10,Pro,Direct,USA,99
+C0797,2023-08-10,Starter,Organic,USA,29
+C0798,2023-08-10,Pro,Social,USA,99
+C0799,2023-08-10,Enterprise,Referral,USA,399
+C0800,2023-08-11,Starter,Organic,USA,29
+C0801,2023-08-11,Starter,Paid Search,USA,29
+C0802,2023-08-11,Starter,Direct,Canada,29
+C0803,2023-08-11,Enterprise,Organic,USA,399
+C0804,2023-08-11,Pro,Organic,USA,99
+C0805,2023-08-12,Pro,Social,USA,99
+C0806,2023-08-12,Starter,Paid Search,USA,29
+C0807,2023-08-13,Starter,Organic,USA,29
+C0808,2023-08-13,Enterprise,Social,Canada,399
+C0809,2023-08-13,Starter,Paid Search,USA,29
+C0810,2023-08-14,Starter,Organic,Australia,29
+C0811,2023-08-14,Pro,Paid Search,UK,99
+C0812,2023-08-15,Enterprise,Organic,USA,399
+C0813,2023-08-15,Starter,Referral,Other,29
+C0814,2023-08-15,Starter,Email,Germany,29
+C0815,2023-08-17,Starter,Paid Search,USA,29
+C0816,2023-08-18,Enterprise,Organic,Australia,399
+C0817,2023-08-19,Starter,Referral,USA,29
+C0818,2023-08-19,Pro,Referral,Australia,99
+C0819,2023-08-19,Enterprise,Organic,Canada,399
+C0820,2023-08-19,Starter,Paid Search,UK,29
+C0821,2023-08-20,Starter,Paid Search,Other,29
+C0822,2023-08-20,Starter,Social,USA,29
+C0823,2023-08-20,Starter,Organic,Other,29
+C0824,2023-08-20,Enterprise,Email,Other,399
+C0825,2023-08-21,Starter,Paid Search,India,29
+C0826,2023-08-22,Starter,Paid Search,USA,29
+C0827,2023-08-22,Pro,Social,USA,99
+C0828,2023-08-22,Starter,Social,India,29
+C0829,2023-08-23,Starter,Referral,USA,29
+C0830,2023-08-23,Starter,Referral,UK,29
+C0831,2023-08-23,Starter,Social,UK,29
+C0832,2023-08-24,Pro,Referral,India,99
+C0833,2023-08-25,Starter,Organic,USA,29
+C0834,2023-08-25,Starter,Social,UK,29
+C0835,2023-08-25,Starter,Organic,UK,29
+C0836,2023-08-26,Starter,Referral,USA,29
+C0837,2023-08-26,Pro,Email,USA,99
+C0838,2023-08-26,Starter,Organic,India,29
+C0839,2023-08-27,Pro,Paid Search,UK,99
+C0840,2023-08-27,Enterprise,Organic,USA,399
+C0841,2023-08-28,Enterprise,Social,France,399
+C0842,2023-08-28,Pro,Referral,USA,99
+C0843,2023-08-28,Pro,Email,India,99
+C0844,2023-08-28,Starter,Organic,USA,29
+C0845,2023-08-30,Starter,Paid Search,UK,29
+C0846,2023-08-30,Pro,Paid Search,India,99
+C0847,2023-08-30,Starter,Organic,USA,29
+C0848,2023-08-31,Pro,Organic,USA,99
+C0849,2023-08-31,Starter,Referral,USA,29
+C0850,2023-08-31,Pro,Social,Australia,99
+C0851,2023-09-01,Enterprise,Organic,USA,399
+C0852,2023-09-01,Enterprise,Paid Search,UK,399
+C0853,2023-09-01,Pro,Social,Other,99
+C0854,2023-09-02,Enterprise,Referral,USA,399
+C0855,2023-09-02,Enterprise,Organic,USA,399
+C0856,2023-09-02,Enterprise,Organic,USA,399
+C0857,2023-09-02,Starter,Email,UK,29
+C0858,2023-09-03,Pro,Organic,Australia,99
+C0859,2023-09-03,Pro,Paid Search,USA,99
+C0860,2023-09-04,Starter,Direct,India,29
+C0861,2023-09-04,Enterprise,Paid Search,Australia,399
+C0862,2023-09-05,Pro,Social,Other,99
+C0863,2023-09-05,Starter,Organic,Canada,29
+C0864,2023-09-05,Pro,Social,USA,99
+C0865,2023-09-06,Pro,Paid Search,USA,99
+C0866,2023-09-06,Pro,Referral,USA,99
+C0867,2023-09-07,Starter,Organic,USA,29
+C0868,2023-09-07,Pro,Email,USA,99
+C0869,2023-09-07,Pro,Email,Germany,99
+C0870,2023-09-08,Starter,Direct,USA,29
+C0871,2023-09-08,Starter,Organic,UK,29
+C0872,2023-09-09,Starter,Organic,USA,29
+C0873,2023-09-09,Pro,Email,USA,99
+C0874,2023-09-10,Enterprise,Email,Australia,399
+C0875,2023-09-10,Starter,Social,Other,29
+C0876,2023-09-11,Pro,Paid Search,UK,99
+C0877,2023-09-11,Pro,Paid Search,USA,99
+C0878,2023-09-11,Starter,Referral,Germany,29
+C0879,2023-09-11,Starter,Direct,USA,29
+C0880,2023-09-12,Pro,Referral,Germany,99
+C0881,2023-09-12,Enterprise,Paid Search,Germany,399
+C0882,2023-09-12,Starter,Referral,Canada,29
+C0883,2023-09-13,Pro,Organic,Germany,99
+C0884,2023-09-14,Starter,Organic,Canada,29
+C0885,2023-09-16,Starter,Referral,USA,29
+C0886,2023-09-16,Starter,Referral,UK,29
+C0887,2023-09-16,Starter,Referral,UK,29
+C0888,2023-09-17,Pro,Paid Search,Germany,99
+C0889,2023-09-17,Pro,Referral,USA,99
+C0890,2023-09-18,Pro,Social,Canada,99
+C0891,2023-09-18,Starter,Email,Canada,29
+C0892,2023-09-18,Starter,Paid Search,France,29
+C0893,2023-09-19,Starter,Direct,Canada,29
+C0894,2023-09-20,Pro,Organic,USA,99
+C0895,2023-09-20,Enterprise,Organic,Australia,399
+C0896,2023-09-20,Starter,Organic,USA,29
+C0897,2023-09-20,Pro,Direct,USA,99
+C0898,2023-09-21,Starter,Paid Search,UK,29
+C0899,2023-09-21,Starter,Email,UK,29
+C0900,2023-09-21,Pro,Organic,Other,99
+C0901,2023-09-21,Starter,Organic,India,29
+C0902,2023-09-21,Pro,Paid Search,USA,99
+C0903,2023-09-22,Pro,Organic,Germany,99
+C0904,2023-09-22,Pro,Paid Search,UK,99
+C0905,2023-09-23,Starter,Referral,UK,29
+C0906,2023-09-23,Starter,Social,Other,29
+C0907,2023-09-23,Starter,Email,USA,29
+C0908,2023-09-24,Starter,Organic,USA,29
+C0909,2023-09-24,Starter,Organic,France,29
+C0910,2023-09-24,Pro,Referral,USA,99
+C0911,2023-09-26,Starter,Organic,Canada,29
+C0912,2023-09-26,Enterprise,Paid Search,USA,399
+C0913,2023-09-27,Pro,Paid Search,USA,99
+C0914,2023-09-27,Pro,Referral,USA,99
+C0915,2023-09-27,Starter,Direct,USA,29
+C0916,2023-09-28,Starter,Organic,USA,29
+C0917,2023-09-28,Starter,Referral,USA,29
+C0918,2023-09-29,Starter,Social,UK,29
+C0919,2023-09-29,Enterprise,Email,USA,399
+C0920,2023-09-29,Pro,Paid Search,Other,99
+C0921,2023-09-29,Starter,Direct,Australia,29
+C0922,2023-09-30,Starter,Paid Search,Other,29
+C0923,2023-09-30,Enterprise,Organic,Canada,399
+C0924,2023-09-30,Starter,Organic,USA,29
+C0925,2023-09-30,Starter,Referral,USA,29
+C0926,2023-10-02,Pro,Organic,USA,99
+C0927,2023-10-02,Starter,Organic,USA,29
+C0928,2023-10-03,Starter,Social,USA,29
+C0929,2023-10-04,Starter,Paid Search,Germany,29
+C0930,2023-10-04,Enterprise,Paid Search,USA,399
+C0931,2023-10-07,Starter,Direct,USA,29
+C0932,2023-10-07,Starter,Organic,USA,29
+C0933,2023-10-07,Starter,Referral,USA,29
+C0934,2023-10-08,Pro,Organic,USA,99
+C0935,2023-10-08,Enterprise,Organic,Germany,399
+C0936,2023-10-09,Pro,Organic,Other,99
+C0937,2023-10-09,Starter,Email,USA,29
+C0938,2023-10-09,Enterprise,Organic,UK,399
+C0939,2023-10-09,Pro,Email,France,99
+C0940,2023-10-11,Pro,Email,USA,99
+C0941,2023-10-11,Starter,Organic,USA,29
+C0942,2023-10-13,Starter,Paid Search,USA,29
+C0943,2023-10-14,Pro,Organic,USA,99
+C0944,2023-10-14,Pro,Referral,Canada,99
+C0945,2023-10-14,Pro,Organic,UK,99
+C0946,2023-10-14,Starter,Paid Search,USA,29
+C0947,2023-10-15,Starter,Organic,Other,29
+C0948,2023-10-15,Enterprise,Paid Search,USA,399
+C0949,2023-10-15,Starter,Paid Search,Other,29
+C0950,2023-10-15,Starter,Referral,USA,29
+C0951,2023-10-16,Enterprise,Paid Search,Australia,399
+C0952,2023-10-17,Starter,Social,USA,29
+C0953,2023-10-18,Starter,Email,France,29
+C0954,2023-10-19,Enterprise,Social,Australia,399
+C0955,2023-10-20,Starter,Paid Search,USA,29
+C0956,2023-10-20,Pro,Paid Search,USA,99
+C0957,2023-10-20,Pro,Referral,USA,99
+C0958,2023-10-21,Starter,Organic,USA,29
+C0959,2023-10-21,Starter,Social,India,29
+C0960,2023-10-21,Pro,Paid Search,Germany,99
+C0961,2023-10-21,Starter,Paid Search,Australia,29
+C0962,2023-10-22,Starter,Organic,France,29
+C0963,2023-10-22,Starter,Social,USA,29
+C0964,2023-10-24,Pro,Paid Search,USA,99
+C0965,2023-10-24,Pro,Organic,USA,99
+C0966,2023-10-24,Starter,Organic,USA,29
+C0967,2023-10-24,Starter,Email,USA,29
+C0968,2023-10-25,Starter,Organic,USA,29
+C0969,2023-10-25,Enterprise,Organic,Other,399
+C0970,2023-10-25,Starter,Referral,UK,29
+C0971,2023-10-26,Enterprise,Social,UK,399
+C0972,2023-10-26,Starter,Organic,France,29
+C0973,2023-10-27,Starter,Paid Search,Australia,29
+C0974,2023-10-27,Starter,Direct,Canada,29
+C0975,2023-10-27,Pro,Email,USA,99
+C0976,2023-10-28,Starter,Paid Search,USA,29
+C0977,2023-10-28,Pro,Email,USA,99
+C0978,2023-10-28,Starter,Direct,USA,29
+C0979,2023-10-28,Starter,Paid Search,France,29
+C0980,2023-10-28,Pro,Referral,Germany,99
+C0981,2023-10-29,Starter,Paid Search,Germany,29
+C0982,2023-10-29,Starter,Referral,Other,29
+C0983,2023-10-30,Pro,Referral,Australia,99
+C0984,2023-10-30,Pro,Paid Search,USA,99
+C0985,2023-10-30,Starter,Social,UK,29
+C0986,2023-10-30,Pro,Paid Search,India,99
+C0987,2023-10-30,Starter,Referral,UK,29
+C0988,2023-11-01,Starter,Organic,Canada,29
+C0989,2023-11-02,Starter,Organic,Other,29
+C0990,2023-11-02,Pro,Direct,USA,99
+C0991,2023-11-02,Starter,Email,UK,29
+C0992,2023-11-02,Pro,Organic,USA,99
+C0993,2023-11-02,Starter,Organic,USA,29
+C0994,2023-11-03,Starter,Direct,USA,29
+C0995,2023-11-03,Pro,Referral,UK,99
+C0996,2023-11-05,Starter,Referral,India,29
+C0997,2023-11-05,Pro,Referral,Other,99
+C0998,2023-11-05,Pro,Paid Search,India,99
+C0999,2023-11-06,Starter,Email,USA,29
+C1000,2023-11-06,Starter,Referral,India,29
+C1001,2023-11-07,Starter,Paid Search,Germany,29
+C1002,2023-11-07,Starter,Email,USA,29
+C1003,2023-11-07,Pro,Referral,USA,99
+C1004,2023-11-08,Starter,Organic,Canada,29
+C1005,2023-11-08,Pro,Social,USA,99
+C1006,2023-11-10,Starter,Organic,USA,29
+C1007,2023-11-10,Pro,Email,India,99
+C1008,2023-11-10,Starter,Direct,Canada,29
+C1009,2023-11-11,Enterprise,Paid Search,USA,399
+C1010,2023-11-11,Starter,Referral,USA,29
+C1011,2023-11-11,Starter,Paid Search,UK,29
+C1012,2023-11-13,Pro,Organic,USA,99
+C1013,2023-11-13,Pro,Direct,Canada,99
+C1014,2023-11-13,Enterprise,Referral,India,399
+C1015,2023-11-14,Starter,Social,India,29
+C1016,2023-11-14,Pro,Paid Search,UK,99
+C1017,2023-11-15,Starter,Paid Search,USA,29
+C1018,2023-11-15,Pro,Organic,USA,99
+C1019,2023-11-16,Starter,Social,USA,29
+C1020,2023-11-16,Starter,Social,USA,29
+C1021,2023-11-16,Enterprise,Email,UK,399
+C1022,2023-11-17,Starter,Referral,USA,29
+C1023,2023-11-17,Starter,Paid Search,France,29
+C1024,2023-11-17,Starter,Social,Canada,29
+C1025,2023-11-17,Starter,Organic,Other,29
+C1026,2023-11-17,Pro,Social,USA,99
+C1027,2023-11-17,Starter,Paid Search,USA,29
+C1028,2023-11-18,Starter,Referral,USA,29
+C1029,2023-11-18,Starter,Paid Search,Australia,29
+C1030,2023-11-18,Starter,Social,USA,29
+C1031,2023-11-18,Starter,Organic,Germany,29
+C1032,2023-11-19,Starter,Organic,USA,29
+C1033,2023-11-20,Pro,Organic,USA,99
+C1034,2023-11-20,Starter,Paid Search,India,29
+C1035,2023-11-21,Pro,Paid Search,USA,99
+C1036,2023-11-21,Starter,Paid Search,USA,29
+C1037,2023-11-22,Pro,Direct,Other,99
+C1038,2023-11-22,Enterprise,Social,Canada,399
+C1039,2023-11-22,Starter,Social,UK,29
+C1040,2023-11-23,Starter,Referral,USA,29
+C1041,2023-11-23,Starter,Email,USA,29
+C1042,2023-11-24,Starter,Email,India,29
+C1043,2023-11-24,Pro,Organic,USA,99
+C1044,2023-11-25,Enterprise,Social,UK,399
+C1045,2023-11-26,Starter,Organic,Other,29
+C1046,2023-11-27,Starter,Social,USA,29
+C1047,2023-11-27,Pro,Email,India,99
+C1048,2023-11-28,Starter,Social,Australia,29
+C1049,2023-11-28,Starter,Email,India,29
+C1050,2023-11-29,Enterprise,Social,USA,399
+C1051,2023-11-30,Starter,Organic,France,29
+C1052,2023-11-30,Pro,Social,USA,99
+C1053,2023-11-30,Starter,Referral,UK,29
+C1054,2023-11-30,Starter,Social,USA,29
+C1055,2023-12-01,Starter,Paid Search,USA,29
+C1056,2023-12-02,Enterprise,Organic,USA,399
+C1057,2023-12-03,Starter,Referral,USA,29
+C1058,2023-12-03,Pro,Organic,USA,99
+C1059,2023-12-03,Starter,Referral,France,29
+C1060,2023-12-04,Starter,Paid Search,France,29
+C1061,2023-12-04,Starter,Referral,USA,29
+C1062,2023-12-04,Enterprise,Referral,Other,399
+C1063,2023-12-06,Pro,Paid Search,Other,99
+C1064,2023-12-06,Starter,Paid Search,Canada,29
+C1065,2023-12-06,Pro,Email,USA,99
+C1066,2023-12-07,Pro,Referral,USA,99
+C1067,2023-12-07,Starter,Organic,USA,29
+C1068,2023-12-07,Enterprise,Social,Canada,399
+C1069,2023-12-07,Enterprise,Paid Search,Australia,399
+C1070,2023-12-08,Starter,Email,USA,29
+C1071,2023-12-08,Enterprise,Organic,USA,399
+C1072,2023-12-08,Pro,Paid Search,India,99
+C1073,2023-12-08,Starter,Referral,USA,29
+C1074,2023-12-09,Starter,Organic,UK,29
+C1075,2023-12-09,Starter,Paid Search,USA,29
+C1076,2023-12-09,Starter,Social,France,29
+C1077,2023-12-09,Starter,Social,India,29
+C1078,2023-12-10,Starter,Referral,USA,29
+C1079,2023-12-11,Pro,Organic,Canada,99
+C1080,2023-12-11,Pro,Organic,USA,99
+C1081,2023-12-12,Enterprise,Paid Search,UK,399
+C1082,2023-12-13,Enterprise,Referral,India,399
+C1083,2023-12-13,Pro,Email,UK,99
+C1084,2023-12-14,Starter,Paid Search,Other,29
+C1085,2023-12-14,Pro,Organic,Germany,99
+C1086,2023-12-15,Starter,Organic,UK,29
+C1087,2023-12-15,Starter,Email,USA,29
+C1088,2023-12-16,Pro,Social,USA,99
+C1089,2023-12-16,Enterprise,Paid Search,USA,399
+C1090,2023-12-16,Starter,Email,USA,29
+C1091,2023-12-17,Starter,Organic,USA,29
+C1092,2023-12-18,Pro,Paid Search,USA,99
+C1093,2023-12-18,Starter,Paid Search,Other,29
+C1094,2023-12-20,Starter,Direct,UK,29
+C1095,2023-12-20,Starter,Email,UK,29
+C1096,2023-12-20,Pro,Direct,USA,99
+C1097,2023-12-20,Starter,Referral,USA,29
+C1098,2023-12-21,Starter,Organic,USA,29
+C1099,2023-12-21,Pro,Organic,UK,99
+C1100,2023-12-21,Pro,Paid Search,USA,99
+C1101,2023-12-21,Pro,Organic,Australia,99
+C1102,2023-12-22,Enterprise,Paid Search,UK,399
+C1103,2023-12-23,Starter,Paid Search,France,29
+C1104,2023-12-23,Enterprise,Paid Search,India,399
+C1105,2023-12-24,Enterprise,Direct,UK,399
+C1106,2023-12-25,Starter,Organic,Other,29
+C1107,2023-12-26,Starter,Social,USA,29
+C1108,2023-12-26,Starter,Paid Search,Other,29
+C1109,2023-12-27,Starter,Social,USA,29
+C1110,2023-12-27,Starter,Paid Search,UK,29
+C1111,2023-12-27,Starter,Paid Search,USA,29
+C1112,2023-12-28,Starter,Direct,Other,29
+C1113,2023-12-28,Starter,Social,France,29
+C1114,2023-12-31,Starter,Referral,Other,29
+C1115,2023-12-31,Starter,Organic,Other,29
+C1116,2023-12-31,Pro,Organic,USA,99
+C1117,2024-01-01,Starter,Social,Canada,29
+C1118,2024-01-02,Enterprise,Organic,UK,399
+C1119,2024-01-02,Pro,Paid Search,USA,99
+C1120,2024-01-02,Enterprise,Email,UK,399
+C1121,2024-01-03,Pro,Organic,UK,99
+C1122,2024-01-03,Pro,Paid Search,Other,99
+C1123,2024-01-03,Pro,Paid Search,Australia,99
+C1124,2024-01-05,Starter,Paid Search,USA,29
+C1125,2024-01-05,Starter,Referral,UK,29
+C1126,2024-01-06,Pro,Social,USA,99
+C1127,2024-01-06,Pro,Organic,USA,99
+C1128,2024-01-07,Pro,Organic,USA,99
+C1129,2024-01-07,Pro,Paid Search,USA,99
+C1130,2024-01-09,Enterprise,Social,Germany,399
+C1131,2024-01-10,Starter,Social,Germany,29
+C1132,2024-01-11,Pro,Referral,USA,99
+C1133,2024-01-12,Starter,Paid Search,USA,29
+C1134,2024-01-12,Enterprise,Organic,Other,399
+C1135,2024-01-12,Enterprise,Organic,USA,399
+C1136,2024-01-14,Enterprise,Direct,USA,399
+C1137,2024-01-14,Starter,Paid Search,Canada,29
+C1138,2024-01-14,Starter,Referral,USA,29
+C1139,2024-01-15,Starter,Paid Search,USA,29
+C1140,2024-01-16,Starter,Paid Search,USA,29
+C1141,2024-01-16,Starter,Paid Search,Other,29
+C1142,2024-01-16,Starter,Paid Search,India,29
+C1143,2024-01-17,Enterprise,Organic,Canada,399
+C1144,2024-01-18,Pro,Social,USA,99
+C1145,2024-01-18,Pro,Organic,India,99
+C1146,2024-01-18,Pro,Organic,Germany,99
+C1147,2024-01-19,Starter,Referral,UK,29
+C1148,2024-01-19,Starter,Organic,Other,29
+C1149,2024-01-19,Starter,Organic,USA,29
+C1150,2024-01-19,Pro,Paid Search,USA,99
+C1151,2024-01-20,Starter,Organic,USA,29
+C1152,2024-01-21,Starter,Referral,USA,29
+C1153,2024-01-22,Starter,Paid Search,Other,29
+C1154,2024-01-22,Enterprise,Referral,USA,399
+C1155,2024-01-22,Starter,Paid Search,USA,29
+C1156,2024-01-23,Pro,Referral,Germany,99
+C1157,2024-01-24,Pro,Paid Search,Canada,99
+C1158,2024-01-24,Starter,Organic,Canada,29
+C1159,2024-01-26,Starter,Paid Search,USA,29
+C1160,2024-01-26,Pro,Referral,USA,99
+C1161,2024-01-26,Pro,Organic,USA,99
+C1162,2024-01-26,Pro,Social,Other,99
+C1163,2024-01-27,Starter,Social,India,29
+C1164,2024-01-27,Enterprise,Organic,Australia,399
+C1165,2024-01-27,Pro,Organic,UK,99
+C1166,2024-01-29,Starter,Social,France,29
+C1167,2024-01-29,Pro,Social,UK,99
+C1168,2024-01-29,Starter,Organic,UK,29
+C1169,2024-01-29,Starter,Organic,UK,29
+C1170,2024-01-29,Starter,Organic,UK,29
+C1171,2024-01-29,Starter,Email,Germany,29
+C1172,2024-01-30,Pro,Organic,Australia,99
+C1173,2024-01-30,Pro,Referral,USA,99
+C1174,2024-01-31,Pro,Referral,India,99
+C1175,2024-01-31,Pro,Paid Search,UK,99
+C1176,2024-02-01,Starter,Social,USA,29
+C1177,2024-02-01,Starter,Organic,UK,29
+C1178,2024-02-02,Starter,Social,Australia,29
+C1179,2024-02-02,Starter,Organic,USA,29
+C1180,2024-02-03,Enterprise,Paid Search,UK,399
+C1181,2024-02-04,Starter,Social,Germany,29
+C1182,2024-02-04,Pro,Social,USA,99
+C1183,2024-02-04,Starter,Organic,USA,29
+C1184,2024-02-06,Starter,Organic,USA,29
+C1185,2024-02-06,Enterprise,Social,Germany,399
+C1186,2024-02-06,Pro,Organic,Canada,99
+C1187,2024-02-07,Starter,Social,USA,29
+C1188,2024-02-08,Enterprise,Organic,USA,399
+C1189,2024-02-08,Enterprise,Organic,Canada,399
+C1190,2024-02-09,Pro,Referral,Other,99
+C1191,2024-02-10,Enterprise,Organic,Germany,399
+C1192,2024-02-10,Pro,Social,USA,99
+C1193,2024-02-12,Pro,Direct,France,99
+C1194,2024-02-13,Starter,Organic,USA,29
+C1195,2024-02-13,Pro,Referral,UK,99
+C1196,2024-02-13,Starter,Paid Search,UK,29
+C1197,2024-02-13,Enterprise,Social,USA,399
+C1198,2024-02-14,Pro,Organic,Other,99
+C1199,2024-02-14,Starter,Paid Search,USA,29
+C1200,2024-02-14,Pro,Social,Canada,99
+C1201,2024-02-15,Starter,Paid Search,USA,29
+C1202,2024-02-16,Pro,Organic,India,99
+C1203,2024-02-17,Enterprise,Email,USA,399
+C1204,2024-02-17,Starter,Organic,Canada,29
+C1205,2024-02-18,Pro,Organic,USA,99
+C1206,2024-02-18,Pro,Email,USA,99
+C1207,2024-02-19,Pro,Organic,USA,99
+C1208,2024-02-19,Enterprise,Referral,Australia,399
+C1209,2024-02-19,Starter,Referral,USA,29
+C1210,2024-02-20,Starter,Paid Search,USA,29
+C1211,2024-02-21,Pro,Social,USA,99
+C1212,2024-02-21,Starter,Organic,USA,29
+C1213,2024-02-21,Pro,Referral,USA,99
+C1214,2024-02-23,Starter,Social,Germany,29
+C1215,2024-02-23,Starter,Paid Search,India,29
+C1216,2024-02-23,Starter,Organic,Canada,29
+C1217,2024-02-24,Pro,Social,Canada,99
+C1218,2024-02-24,Pro,Organic,USA,99
+C1219,2024-02-24,Starter,Organic,Canada,29
+C1220,2024-02-24,Enterprise,Direct,India,399
+C1221,2024-02-25,Starter,Organic,Germany,29
+C1222,2024-02-25,Pro,Social,Australia,99
+C1223,2024-02-26,Pro,Referral,USA,99
+C1224,2024-02-26,Pro,Email,USA,99
+C1225,2024-02-26,Pro,Paid Search,Other,99
+C1226,2024-02-26,Starter,Social,USA,29
+C1227,2024-02-26,Pro,Organic,USA,99
+C1228,2024-02-27,Starter,Email,USA,29
+C1229,2024-02-28,Starter,Referral,UK,29
+C1230,2024-02-28,Enterprise,Organic,India,399
+C1231,2024-02-28,Starter,Organic,Canada,29
+C1232,2024-02-28,Pro,Referral,USA,99
+C1233,2024-02-28,Starter,Paid Search,Other,29
+C1234,2024-02-29,Starter,Organic,USA,29
+C1235,2024-02-29,Pro,Organic,France,99
+C1236,2024-03-02,Starter,Email,USA,29
+C1237,2024-03-03,Pro,Email,USA,99
+C1238,2024-03-03,Enterprise,Paid Search,Other,399
+C1239,2024-03-03,Pro,Paid Search,USA,99
+C1240,2024-03-03,Starter,Organic,USA,29
+C1241,2024-03-04,Starter,Paid Search,Australia,29
+C1242,2024-03-04,Starter,Organic,India,29
+C1243,2024-03-04,Starter,Organic,USA,29
+C1244,2024-03-04,Enterprise,Referral,USA,399
+C1245,2024-03-05,Pro,Paid Search,Canada,99
+C1246,2024-03-06,Pro,Social,USA,99
+C1247,2024-03-06,Starter,Paid Search,France,29
+C1248,2024-03-07,Pro,Referral,Other,99
+C1249,2024-03-08,Starter,Social,Canada,29
+C1250,2024-03-08,Enterprise,Direct,Canada,399
+C1251,2024-03-08,Starter,Referral,USA,29
+C1252,2024-03-09,Pro,Email,USA,99
+C1253,2024-03-10,Pro,Paid Search,USA,99
+C1254,2024-03-10,Starter,Referral,Other,29
+C1255,2024-03-12,Enterprise,Organic,Germany,399
+C1256,2024-03-13,Pro,Organic,USA,99
+C1257,2024-03-13,Starter,Email,India,29
+C1258,2024-03-13,Pro,Organic,Canada,99
+C1259,2024-03-14,Starter,Paid Search,India,29
+C1260,2024-03-14,Starter,Referral,USA,29
+C1261,2024-03-14,Pro,Paid Search,India,99
+C1262,2024-03-15,Starter,Organic,France,29
+C1263,2024-03-15,Starter,Referral,Other,29
+C1264,2024-03-15,Starter,Organic,India,29
+C1265,2024-03-15,Enterprise,Email,UK,399
+C1266,2024-03-15,Pro,Organic,Other,99
+C1267,2024-03-15,Enterprise,Organic,USA,399
+C1268,2024-03-16,Starter,Organic,Germany,29
+C1269,2024-03-17,Starter,Organic,USA,29
+C1270,2024-03-18,Enterprise,Social,USA,399
+C1271,2024-03-18,Starter,Direct,Germany,29
+C1272,2024-03-19,Starter,Organic,USA,29
+C1273,2024-03-19,Starter,Social,France,29
+C1274,2024-03-19,Starter,Referral,USA,29
+C1275,2024-03-20,Pro,Referral,USA,99
+C1276,2024-03-20,Starter,Social,USA,29
+C1277,2024-03-20,Starter,Paid Search,Other,29
+C1278,2024-03-21,Starter,Referral,USA,29
+C1279,2024-03-22,Pro,Social,France,99
+C1280,2024-03-24,Starter,Social,India,29
+C1281,2024-03-24,Starter,Organic,USA,29
+C1282,2024-03-24,Starter,Email,USA,29
+C1283,2024-03-24,Starter,Referral,USA,29
+C1284,2024-03-25,Pro,Organic,Other,99
+C1285,2024-03-25,Enterprise,Email,USA,399
+C1286,2024-03-26,Pro,Organic,USA,99
+C1287,2024-03-26,Starter,Social,UK,29
+C1288,2024-03-26,Pro,Organic,USA,99
+C1289,2024-03-27,Pro,Paid Search,Canada,99
+C1290,2024-03-27,Starter,Referral,India,29
+C1291,2024-03-28,Starter,Organic,India,29
+C1292,2024-03-28,Pro,Paid Search,USA,99
+C1293,2024-03-29,Enterprise,Social,USA,399
+C1294,2024-03-30,Starter,Organic,India,29
+C1295,2024-03-30,Starter,Direct,UK,29
+C1296,2024-03-30,Starter,Social,France,29
+C1297,2024-04-01,Pro,Paid Search,Canada,99
+C1298,2024-04-03,Pro,Paid Search,USA,99
+C1299,2024-04-04,Starter,Organic,France,29
+C1300,2024-04-04,Starter,Direct,UK,29
+C1301,2024-04-04,Pro,Paid Search,USA,99
+C1302,2024-04-05,Starter,Organic,India,29
+C1303,2024-04-05,Starter,Referral,USA,29
+C1304,2024-04-05,Starter,Paid Search,France,29
+C1305,2024-04-06,Pro,Paid Search,UK,99
+C1306,2024-04-06,Starter,Direct,India,29
+C1307,2024-04-06,Starter,Social,USA,29
+C1308,2024-04-07,Enterprise,Organic,India,399
+C1309,2024-04-08,Starter,Referral,Australia,29
+C1310,2024-04-10,Pro,Social,France,99
+C1311,2024-04-11,Starter,Paid Search,USA,29
+C1312,2024-04-12,Enterprise,Paid Search,Canada,399
+C1313,2024-04-13,Pro,Organic,USA,99
+C1314,2024-04-13,Starter,Paid Search,USA,29
+C1315,2024-04-13,Starter,Email,Other,29
+C1316,2024-04-14,Starter,Paid Search,USA,29
+C1317,2024-04-14,Pro,Referral,USA,99
+C1318,2024-04-15,Starter,Referral,India,29
+C1319,2024-04-15,Starter,Social,USA,29
+C1320,2024-04-15,Starter,Referral,Germany,29
+C1321,2024-04-15,Starter,Email,USA,29
+C1322,2024-04-16,Pro,Paid Search,France,99
+C1323,2024-04-16,Enterprise,Organic,Other,399
+C1324,2024-04-16,Pro,Referral,USA,99
+C1325,2024-04-17,Pro,Email,USA,99
+C1326,2024-04-17,Enterprise,Organic,USA,399
+C1327,2024-04-17,Pro,Social,India,99
+C1328,2024-04-19,Starter,Direct,USA,29
+C1329,2024-04-19,Starter,Organic,UK,29
+C1330,2024-04-20,Enterprise,Social,Germany,399
+C1331,2024-04-22,Starter,Paid Search,UK,29
+C1332,2024-04-22,Starter,Organic,Canada,29
+C1333,2024-04-22,Pro,Referral,UK,99
+C1334,2024-04-22,Starter,Social,USA,29
+C1335,2024-04-23,Enterprise,Social,USA,399
+C1336,2024-04-24,Enterprise,Paid Search,USA,399
+C1337,2024-04-24,Pro,Organic,Australia,99
+C1338,2024-04-26,Pro,Direct,UK,99
+C1339,2024-04-27,Starter,Referral,USA,29
+C1340,2024-04-27,Pro,Paid Search,USA,99
+C1341,2024-04-27,Starter,Email,Germany,29
+C1342,2024-04-28,Starter,Organic,USA,29
+C1343,2024-04-28,Enterprise,Organic,Canada,399
+C1344,2024-04-28,Starter,Social,USA,29
+C1345,2024-04-29,Pro,Organic,India,99
+C1346,2024-05-02,Starter,Referral,Germany,29
+C1347,2024-05-02,Starter,Email,India,29
+C1348,2024-05-03,Starter,Paid Search,USA,29
+C1349,2024-05-03,Pro,Referral,USA,99
+C1350,2024-05-03,Pro,Referral,Other,99
+C1351,2024-05-04,Pro,Direct,UK,99
+C1352,2024-05-05,Starter,Referral,UK,29
+C1353,2024-05-09,Starter,Paid Search,Germany,29
+C1354,2024-05-09,Pro,Paid Search,USA,99
+C1355,2024-05-10,Starter,Social,USA,29
+C1356,2024-05-11,Pro,Paid Search,USA,99
+C1357,2024-05-12,Starter,Organic,Other,29
+C1358,2024-05-13,Starter,Organic,UK,29
+C1359,2024-05-14,Starter,Organic,USA,29
+C1360,2024-05-14,Pro,Social,USA,99
+C1361,2024-05-14,Starter,Direct,USA,29
+C1362,2024-05-14,Starter,Organic,UK,29
+C1363,2024-05-15,Pro,Organic,Canada,99
+C1364,2024-05-16,Starter,Paid Search,Australia,29
+C1365,2024-05-18,Starter,Social,USA,29
+C1366,2024-05-18,Pro,Organic,Germany,99
+C1367,2024-05-18,Starter,Email,USA,29
+C1368,2024-05-18,Pro,Paid Search,France,99
+C1369,2024-05-19,Starter,Organic,UK,29
+C1370,2024-05-20,Starter,Organic,Other,29
+C1371,2024-05-21,Enterprise,Paid Search,France,399
+C1372,2024-05-25,Pro,Organic,Canada,99
+C1373,2024-05-25,Pro,Direct,USA,99
+C1374,2024-05-25,Pro,Organic,USA,99
+C1375,2024-05-26,Starter,Direct,Australia,29
+C1376,2024-05-27,Pro,Paid Search,USA,99
+C1377,2024-05-27,Starter,Organic,USA,29
+C1378,2024-05-27,Pro,Paid Search,USA,99
+C1379,2024-05-28,Starter,Organic,USA,29
+C1380,2024-05-29,Enterprise,Social,Australia,399
+C1381,2024-05-30,Starter,Paid Search,USA,29
+C1382,2024-05-31,Enterprise,Referral,USA,399
+C1383,2024-05-31,Pro,Paid Search,India,99
+C1384,2024-05-31,Enterprise,Social,UK,399
+C1385,2024-05-31,Starter,Organic,USA,29
+C1386,2024-06-02,Starter,Referral,Canada,29
+C1387,2024-06-02,Starter,Referral,USA,29
+C1388,2024-06-03,Starter,Organic,USA,29
+C1389,2024-06-04,Starter,Paid Search,USA,29
+C1390,2024-06-04,Enterprise,Organic,USA,399
+C1391,2024-06-04,Starter,Social,USA,29
+C1392,2024-06-04,Pro,Paid Search,UK,99
+C1393,2024-06-04,Pro,Organic,USA,99
+C1394,2024-06-04,Starter,Social,USA,29
+C1395,2024-06-05,Starter,Direct,USA,29
+C1396,2024-06-05,Pro,Referral,USA,99
+C1397,2024-06-05,Starter,Organic,Canada,29
+C1398,2024-06-05,Pro,Referral,Other,99
+C1399,2024-06-05,Pro,Organic,USA,99
+C1400,2024-06-06,Pro,Organic,USA,99
+C1401,2024-06-06,Pro,Paid Search,France,99
+C1402,2024-06-07,Pro,Organic,Other,99
+C1403,2024-06-07,Starter,Paid Search,USA,29
+C1404,2024-06-07,Starter,Paid Search,USA,29
+C1405,2024-06-08,Starter,Paid Search,Australia,29
+C1406,2024-06-12,Pro,Organic,USA,99
+C1407,2024-06-14,Starter,Organic,Australia,29
+C1408,2024-06-14,Pro,Organic,USA,99
+C1409,2024-06-14,Starter,Social,USA,29
+C1410,2024-06-15,Enterprise,Referral,USA,399
+C1411,2024-06-16,Pro,Email,UK,99
+C1412,2024-06-17,Starter,Paid Search,Germany,29
+C1413,2024-06-18,Pro,Social,Germany,99
+C1414,2024-06-19,Enterprise,Email,USA,399
+C1415,2024-06-20,Pro,Referral,Australia,99
+C1416,2024-06-20,Pro,Organic,Australia,99
+C1417,2024-06-21,Pro,Organic,UK,99
+C1418,2024-06-21,Starter,Paid Search,USA,29
+C1419,2024-06-22,Starter,Paid Search,India,29
+C1420,2024-06-22,Pro,Referral,USA,99
+C1421,2024-06-23,Starter,Email,USA,29
+C1422,2024-06-23,Enterprise,Referral,UK,399
+C1423,2024-06-23,Enterprise,Organic,USA,399
+C1424,2024-06-24,Pro,Paid Search,France,99
+C1425,2024-06-24,Starter,Paid Search,India,29
+C1426,2024-06-24,Pro,Organic,USA,99
+C1427,2024-06-29,Pro,Organic,Germany,99
+C1428,2024-07-01,Pro,Referral,Canada,99
+C1429,2024-07-01,Starter,Social,Germany,29
+C1430,2024-07-02,Starter,Direct,UK,29
+C1431,2024-07-03,Starter,Paid Search,Other,29
+C1432,2024-07-05,Starter,Email,France,29
+C1433,2024-07-05,Starter,Organic,Canada,29
+C1434,2024-07-05,Starter,Referral,USA,29
+C1435,2024-07-05,Starter,Referral,USA,29
+C1436,2024-07-07,Starter,Paid Search,USA,29
+C1437,2024-07-08,Pro,Referral,USA,99
+C1438,2024-07-10,Pro,Social,USA,99
+C1439,2024-07-10,Starter,Email,Canada,29
+C1440,2024-07-11,Pro,Social,USA,99
+C1441,2024-07-14,Pro,Paid Search,UK,99
+C1442,2024-07-15,Starter,Organic,USA,29
+C1443,2024-07-15,Enterprise,Paid Search,UK,399
+C1444,2024-07-15,Starter,Organic,Canada,29
+C1445,2024-07-16,Pro,Paid Search,USA,99
+C1446,2024-07-18,Pro,Organic,USA,99
+C1447,2024-07-19,Starter,Organic,USA,29
+C1448,2024-07-19,Pro,Social,Germany,99
+C1449,2024-07-20,Starter,Organic,USA,29
+C1450,2024-07-20,Enterprise,Social,Canada,399
+C1451,2024-07-21,Starter,Paid Search,USA,29
+C1452,2024-07-21,Pro,Email,Other,99
+C1453,2024-07-21,Pro,Paid Search,Other,99
+C1454,2024-07-22,Pro,Organic,UK,99
+C1455,2024-07-24,Starter,Paid Search,UK,29
+C1456,2024-07-24,Pro,Paid Search,USA,99
+C1457,2024-07-24,Pro,Referral,India,99
+C1458,2024-07-25,Starter,Email,France,29
+C1459,2024-07-25,Starter,Organic,Canada,29
+C1460,2024-07-26,Pro,Direct,France,99
+C1461,2024-07-26,Pro,Paid Search,USA,99
+C1462,2024-07-28,Starter,Paid Search,India,29
+C1463,2024-07-28,Pro,Referral,USA,99
+C1464,2024-07-30,Pro,Organic,USA,99
+C1465,2024-07-30,Pro,Social,Other,99
+C1466,2024-07-31,Starter,Paid Search,USA,29
+C1467,2024-07-31,Starter,Email,Canada,29
+C1468,2024-08-01,Enterprise,Organic,Germany,399
+C1469,2024-08-01,Starter,Email,USA,29
+C1470,2024-08-01,Starter,Paid Search,Other,29
+C1471,2024-08-02,Starter,Paid Search,Germany,29
+C1472,2024-08-04,Starter,Organic,USA,29
+C1473,2024-08-05,Starter,Email,Australia,29
+C1474,2024-08-06,Pro,Direct,UK,99
+C1475,2024-08-07,Starter,Organic,USA,29
+C1476,2024-08-07,Starter,Email,Australia,29
+C1477,2024-08-08,Starter,Social,Canada,29
+C1478,2024-08-08,Enterprise,Email,UK,399
+C1479,2024-08-08,Pro,Social,UK,99
+C1480,2024-08-08,Starter,Organic,UK,29
+C1481,2024-08-08,Starter,Organic,Canada,29
+C1482,2024-08-09,Starter,Social,UK,29
+C1483,2024-08-09,Enterprise,Paid Search,USA,399
+C1484,2024-08-10,Pro,Referral,Other,99
+C1485,2024-08-14,Starter,Paid Search,France,29
+C1486,2024-08-14,Starter,Social,USA,29
+C1487,2024-08-17,Starter,Paid Search,USA,29
+C1488,2024-08-18,Pro,Email,USA,99
+C1489,2024-08-19,Pro,Organic,UK,99
+C1490,2024-08-22,Starter,Email,Australia,29
+C1491,2024-08-22,Pro,Referral,India,99
+C1492,2024-08-23,Enterprise,Referral,France,399
+C1493,2024-08-24,Pro,Organic,UK,99
+C1494,2024-08-25,Starter,Social,UK,29
+C1495,2024-08-26,Pro,Organic,USA,99
+C1496,2024-08-26,Starter,Direct,USA,29
+C1497,2024-08-27,Starter,Referral,India,29
+C1498,2024-08-29,Starter,Paid Search,USA,29
+C1499,2024-08-30,Enterprise,Organic,USA,399
+C1500,2024-08-31,Starter,Organic,Australia,29
+C1501,2024-08-31,Starter,Organic,UK,29
+C1502,2024-09-01,Starter,Organic,Australia,29
+C1503,2024-09-03,Pro,Email,Germany,99
+C1504,2024-09-03,Pro,Organic,Australia,99
+C1505,2024-09-05,Pro,Referral,UK,99
+C1506,2024-09-07,Starter,Referral,Canada,29
+C1507,2024-09-08,Enterprise,Organic,USA,399
+C1508,2024-09-08,Starter,Referral,USA,29
+C1509,2024-09-08,Starter,Direct,USA,29
+C1510,2024-09-09,Pro,Paid Search,Germany,99
+C1511,2024-09-10,Pro,Email,France,99
+C1512,2024-09-13,Starter,Organic,USA,29
+C1513,2024-09-13,Pro,Email,UK,99
+C1514,2024-09-13,Pro,Organic,Australia,99
+C1515,2024-09-17,Enterprise,Organic,UK,399
+C1516,2024-09-17,Starter,Social,UK,29
+C1517,2024-09-18,Starter,Paid Search,USA,29
+C1518,2024-09-18,Pro,Social,USA,99
+C1519,2024-09-18,Pro,Referral,USA,99
+C1520,2024-09-18,Starter,Referral,Other,29
+C1521,2024-09-19,Starter,Paid Search,USA,29
+C1522,2024-09-19,Pro,Organic,USA,99
+C1523,2024-09-20,Pro,Social,USA,99
+C1524,2024-09-21,Starter,Social,USA,29
+C1525,2024-09-21,Starter,Email,USA,29
+C1526,2024-09-23,Pro,Email,USA,99
+C1527,2024-09-25,Starter,Social,France,29
+C1528,2024-09-25,Enterprise,Referral,USA,399
+C1529,2024-09-26,Pro,Paid Search,UK,99
+C1530,2024-09-27,Starter,Organic,Australia,29
+C1531,2024-09-30,Starter,Paid Search,USA,29
+C1532,2024-10-02,Enterprise,Referral,USA,399
+C1533,2024-10-03,Starter,Organic,France,29
+C1534,2024-10-04,Pro,Paid Search,India,99
+C1535,2024-10-04,Starter,Referral,UK,29
+C1536,2024-10-04,Starter,Organic,UK,29
+C1537,2024-10-05,Enterprise,Paid Search,Germany,399
+C1538,2024-10-06,Pro,Organic,USA,99
+C1539,2024-10-07,Starter,Referral,USA,29
+C1540,2024-10-07,Starter,Paid Search,Canada,29
+C1541,2024-10-07,Starter,Paid Search,UK,29
+C1542,2024-10-08,Pro,Referral,USA,99
+C1543,2024-10-10,Pro,Social,UK,99
+C1544,2024-10-10,Pro,Paid Search,USA,99
+C1545,2024-10-12,Pro,Paid Search,India,99
+C1546,2024-10-14,Starter,Email,India,29
+C1547,2024-10-14,Starter,Paid Search,Australia,29
+C1548,2024-10-15,Pro,Paid Search,France,99
+C1549,2024-10-16,Starter,Paid Search,France,29
+C1550,2024-10-18,Enterprise,Social,Germany,399
+C1551,2024-10-18,Starter,Email,USA,29
+C1552,2024-10-18,Starter,Organic,USA,29
+C1553,2024-10-19,Starter,Paid Search,USA,29
+C1554,2024-10-24,Starter,Social,USA,29
+C1555,2024-10-24,Starter,Referral,France,29
+C1556,2024-10-24,Pro,Paid Search,Canada,99
+C1557,2024-10-24,Starter,Organic,USA,29
+C1558,2024-10-26,Pro,Organic,USA,99
+C1559,2024-10-26,Starter,Email,India,29
+C1560,2024-10-29,Starter,Social,UK,29
+C1561,2024-10-29,Pro,Organic,Germany,99
+C1562,2024-11-01,Starter,Social,USA,29
+C1563,2024-11-01,Starter,Paid Search,UK,29
+C1564,2024-11-04,Starter,Referral,USA,29
+C1565,2024-11-04,Pro,Referral,UK,99
+C1566,2024-11-04,Pro,Social,USA,99
+C1567,2024-11-05,Pro,Organic,India,99
+C1568,2024-11-07,Pro,Paid Search,USA,99
+C1569,2024-11-08,Starter,Referral,France,29
+C1570,2024-11-11,Pro,Social,France,99
+C1571,2024-11-11,Starter,Organic,Canada,29
+C1572,2024-11-12,Pro,Email,USA,99
+C1573,2024-11-13,Starter,Paid Search,USA,29
+C1574,2024-11-13,Starter,Referral,USA,29
+C1575,2024-11-14,Pro,Paid Search,India,99
+C1576,2024-11-16,Starter,Paid Search,USA,29
+C1577,2024-11-17,Enterprise,Referral,UK,399
+C1578,2024-11-23,Starter,Email,USA,29
+C1579,2024-11-23,Starter,Social,Other,29
+C1580,2024-11-24,Starter,Organic,Other,29
+C1581,2024-11-24,Starter,Organic,India,29
+C1582,2024-11-25,Enterprise,Paid Search,Other,399
+C1583,2024-11-25,Pro,Organic,Other,99
+C1584,2024-11-26,Starter,Organic,UK,29
+C1585,2024-11-26,Starter,Organic,USA,29
+C1586,2024-11-28,Starter,Referral,India,29
+C1587,2024-11-30,Enterprise,Organic,USA,399
+C1588,2024-11-30,Starter,Organic,USA,29
+C1589,2024-11-30,Pro,Email,Other,99
+C1590,2024-12-01,Starter,Email,USA,29
+C1591,2024-12-02,Starter,Email,India,29
+C1592,2024-12-03,Starter,Paid Search,USA,29
+C1593,2024-12-03,Pro,Paid Search,Other,99
+C1594,2024-12-04,Starter,Paid Search,UK,29
+C1595,2024-12-04,Pro,Paid Search,Canada,99
+C1596,2024-12-05,Enterprise,Email,Australia,399
+C1597,2024-12-05,Enterprise,Social,Germany,399
+C1598,2024-12-06,Starter,Paid Search,USA,29
+C1599,2024-12-06,Starter,Organic,Other,29
+C1600,2024-12-07,Starter,Organic,UK,29
+C1601,2024-12-09,Starter,Organic,USA,29
+C1602,2024-12-09,Starter,Paid Search,Australia,29
+C1603,2024-12-10,Pro,Paid Search,USA,99
+C1604,2024-12-11,Starter,Referral,USA,29
+C1605,2024-12-12,Starter,Referral,UK,29
+C1606,2024-12-12,Starter,Organic,Other,29
+C1607,2024-12-13,Enterprise,Referral,UK,399
+C1608,2024-12-14,Pro,Direct,Other,99
+C1609,2024-12-16,Starter,Referral,USA,29
+C1610,2024-12-18,Starter,Social,USA,29
+C1611,2024-12-19,Enterprise,Organic,UK,399
+C1612,2024-12-19,Enterprise,Email,USA,399
+C1613,2024-12-19,Starter,Social,USA,29
+C1614,2024-12-20,Enterprise,Email,USA,399
+C1615,2024-12-21,Starter,Organic,France,29
+C1616,2024-12-22,Starter,Paid Search,USA,29
+C1617,2024-12-23,Pro,Organic,USA,99
+C1618,2024-12-24,Enterprise,Email,Australia,399
+C1619,2024-12-24,Starter,Paid Search,India,29
+C1620,2024-12-26,Starter,Email,India,29
+C1621,2024-12-27,Starter,Email,Other,29
+C1622,2024-12-28,Starter,Paid Search,USA,29
+C1623,2024-12-28,Starter,Organic,India,29
+C1624,2024-12-29,Enterprise,Paid Search,USA,399
+C1625,2024-12-30,Pro,Paid Search,Germany,99
+C1626,2024-12-30,Starter,Organic,USA,29
+C1627,2024-12-30,Pro,Organic,Australia,99
+C1628,2024-12-30,Starter,Paid Search,UK,29
+C1629,2024-12-30,Enterprise,Email,USA,399
+C1630,2024-12-30,Starter,Organic,UK,29
+C1631,2024-12-30,Starter,Email,Other,29
+C1632,2024-12-30,Starter,Paid Search,France,29
+C1633,2024-12-30,Pro,Organic,USA,99
+C1634,2024-12-30,Starter,Organic,USA,29
+C1635,2024-12-30,Starter,Social,USA,29
+C1636,2024-12-30,Starter,Organic,Australia,29
+C1637,2024-12-30,Enterprise,Paid Search,USA,399
+C1638,2024-12-30,Enterprise,Organic,USA,399
+C1639,2024-12-30,Starter,Organic,USA,29
+C1640,2024-12-30,Enterprise,Social,USA,399
+C1641,2024-12-30,Enterprise,Organic,USA,399
+C1642,2024-12-30,Pro,Social,USA,99
+C1643,2024-12-30,Starter,Social,Canada,29
+C1644,2024-12-30,Pro,Paid Search,USA,99
+C1645,2024-12-30,Starter,Organic,Other,29
+C1646,2024-12-30,Starter,Paid Search,Australia,29
+C1647,2024-12-30,Starter,Paid Search,Germany,29
+C1648,2024-12-30,Enterprise,Social,USA,399
+C1649,2024-12-30,Pro,Referral,USA,99
+C1650,2024-12-30,Starter,Email,USA,29
+C1651,2024-12-30,Pro,Paid Search,USA,99
+C1652,2024-12-30,Starter,Referral,USA,29
+C1653,2024-12-30,Pro,Social,Canada,99
+C1654,2024-12-30,Enterprise,Paid Search,USA,399
+C1655,2024-12-30,Enterprise,Social,USA,399
+C1656,2024-12-30,Starter,Referral,USA,29
+C1657,2024-12-30,Pro,Paid Search,USA,99
+C1658,2024-12-30,Pro,Organic,USA,99
+C1659,2024-12-30,Pro,Paid Search,Canada,99
+C1660,2024-12-30,Pro,Referral,USA,99
+C1661,2024-12-30,Starter,Paid Search,Other,29
+C1662,2024-12-30,Pro,Referral,USA,99
+C1663,2024-12-30,Starter,Paid Search,USA,29
+C1664,2024-12-30,Starter,Email,USA,29
+C1665,2024-12-30,Starter,Organic,France,29
+C1666,2024-12-30,Pro,Social,France,99
+C1667,2024-12-30,Starter,Social,USA,29
+C1668,2024-12-30,Starter,Referral,Australia,29
+C1669,2024-12-30,Starter,Paid Search,UK,29
+C1670,2024-12-30,Starter,Organic,USA,29
+C1671,2024-12-30,Starter,Referral,USA,29
+C1672,2024-12-30,Starter,Paid Search,Germany,29
+C1673,2024-12-30,Starter,Organic,USA,29
+C1674,2024-12-30,Pro,Social,Germany,99
+C1675,2024-12-30,Enterprise,Referral,India,399
+C1676,2024-12-30,Starter,Organic,Other,29
+C1677,2024-12-30,Starter,Organic,India,29
+C1678,2024-12-30,Starter,Social,India,29
+C1679,2024-12-30,Starter,Referral,USA,29
+C1680,2024-12-30,Starter,Paid Search,India,29
+C1681,2024-12-30,Pro,Paid Search,India,99
+C1682,2024-12-30,Starter,Email,USA,29
+C1683,2024-12-30,Pro,Organic,USA,99
+C1684,2024-12-30,Starter,Email,UK,29
+C1685,2024-12-30,Enterprise,Paid Search,UK,399
+C1686,2024-12-30,Starter,Referral,USA,29
+C1687,2024-12-30,Enterprise,Email,Other,399
+C1688,2024-12-30,Pro,Social,Australia,99
+C1689,2024-12-30,Starter,Social,USA,29
+C1690,2024-12-30,Starter,Organic,USA,29
+C1691,2024-12-30,Starter,Paid Search,India,29
+C1692,2024-12-30,Starter,Paid Search,USA,29
+C1693,2024-12-30,Pro,Social,UK,99
+C1694,2024-12-30,Pro,Paid Search,Australia,99
+C1695,2024-12-30,Starter,Paid Search,India,29
+C1696,2024-12-30,Starter,Social,India,29
+C1697,2024-12-30,Starter,Organic,USA,29
+C1698,2024-12-30,Enterprise,Social,USA,399
+C1699,2024-12-30,Starter,Social,Germany,29
+C1700,2024-12-30,Starter,Organic,France,29
+C1701,2024-12-30,Starter,Organic,Other,29
+C1702,2024-12-30,Pro,Organic,USA,99
+C1703,2024-12-30,Starter,Organic,France,29
+C1704,2024-12-30,Starter,Referral,France,29
+C1705,2024-12-30,Starter,Organic,UK,29
+C1706,2024-12-30,Enterprise,Referral,USA,399
+C1707,2024-12-30,Pro,Social,France,99
+C1708,2024-12-30,Starter,Paid Search,Germany,29
+C1709,2024-12-30,Starter,Paid Search,USA,29
+C1710,2024-12-30,Starter,Paid Search,Other,29
+C1711,2024-12-30,Starter,Paid Search,Canada,29
+C1712,2024-12-30,Starter,Paid Search,Canada,29
+C1713,2024-12-30,Enterprise,Social,India,399
+C1714,2024-12-30,Starter,Email,USA,29
+C1715,2024-12-30,Pro,Organic,Other,99
+C1716,2024-12-30,Pro,Referral,USA,99
+C1717,2024-12-30,Starter,Social,Australia,29
+C1718,2024-12-30,Starter,Direct,France,29
+C1719,2024-12-30,Starter,Referral,UK,29
+C1720,2024-12-30,Starter,Paid Search,India,29
+C1721,2024-12-30,Pro,Paid Search,India,99
+C1722,2024-12-30,Pro,Referral,USA,99
+C1723,2024-12-30,Enterprise,Paid Search,USA,399
+C1724,2024-12-30,Starter,Paid Search,France,29
+C1725,2024-12-30,Starter,Referral,USA,29
+C1726,2024-12-30,Starter,Direct,Australia,29
+C1727,2024-12-30,Starter,Paid Search,USA,29
+C1728,2024-12-30,Starter,Referral,Australia,29
+C1729,2024-12-30,Starter,Email,India,29
+C1730,2024-12-30,Starter,Paid Search,India,29
+C1731,2024-12-30,Pro,Paid Search,UK,99
+C1732,2024-12-30,Starter,Referral,UK,29
+C1733,2024-12-30,Starter,Referral,Other,29
+C1734,2024-12-30,Enterprise,Paid Search,USA,399
+C1735,2024-12-30,Pro,Organic,Other,99
+C1736,2024-12-30,Starter,Organic,USA,29
+C1737,2024-12-30,Starter,Referral,UK,29
+C1738,2024-12-30,Starter,Organic,UK,29
+C1739,2024-12-30,Starter,Social,UK,29
+C1740,2024-12-30,Pro,Email,France,99
+C1741,2024-12-30,Enterprise,Organic,USA,399
+C1742,2024-12-30,Starter,Email,Other,29
+C1743,2024-12-30,Enterprise,Organic,Other,399
+C1744,2024-12-30,Starter,Organic,USA,29
+C1745,2024-12-30,Starter,Paid Search,USA,29
+C1746,2024-12-30,Starter,Social,Germany,29
+C1747,2024-12-30,Pro,Paid Search,Germany,99
+C1748,2024-12-30,Enterprise,Organic,UK,399
+C1749,2024-12-30,Starter,Organic,India,29
+C1750,2024-12-30,Enterprise,Organic,Germany,399
+C1751,2024-12-30,Enterprise,Email,USA,399
+C1752,2024-12-30,Enterprise,Paid Search,UK,399
+C1753,2024-12-30,Starter,Organic,Canada,29
+C1754,2024-12-30,Starter,Organic,USA,29
+C1755,2024-12-30,Pro,Organic,Australia,99
+C1756,2024-12-30,Starter,Organic,USA,29
+C1757,2024-12-30,Starter,Paid Search,USA,29
+C1758,2024-12-30,Enterprise,Social,USA,399
+C1759,2024-12-30,Starter,Email,USA,29
+C1760,2024-12-30,Starter,Referral,India,29
+C1761,2024-12-30,Pro,Organic,USA,99
+C1762,2024-12-30,Pro,Organic,UK,99
+C1763,2024-12-30,Pro,Organic,Other,99
+C1764,2024-12-30,Pro,Referral,USA,99
+C1765,2024-12-30,Starter,Paid Search,USA,29
+C1766,2024-12-30,Enterprise,Organic,UK,399
+C1767,2024-12-30,Starter,Social,USA,29
+C1768,2024-12-30,Starter,Organic,France,29
+C1769,2024-12-30,Starter,Email,Germany,29
+C1770,2024-12-30,Starter,Referral,USA,29
+C1771,2024-12-30,Enterprise,Paid Search,USA,399
+C1772,2024-12-30,Starter,Organic,Other,29
+C1773,2024-12-30,Starter,Social,USA,29
+C1774,2024-12-30,Enterprise,Organic,UK,399
+C1775,2024-12-30,Starter,Referral,USA,29
+C1776,2024-12-30,Starter,Organic,Canada,29
+C1777,2024-12-30,Starter,Social,USA,29
+C1778,2024-12-30,Enterprise,Email,UK,399
+C1779,2024-12-30,Starter,Organic,USA,29
+C1780,2024-12-30,Starter,Social,UK,29
+C1781,2024-12-30,Enterprise,Paid Search,Canada,399
+C1782,2024-12-30,Starter,Paid Search,USA,29
+C1783,2024-12-30,Starter,Paid Search,Canada,29
+C1784,2024-12-30,Enterprise,Paid Search,USA,399
+C1785,2024-12-30,Starter,Paid Search,USA,29
+C1786,2024-12-30,Pro,Direct,Other,99
+C1787,2024-12-30,Starter,Email,Canada,29
+C1788,2024-12-30,Starter,Paid Search,Germany,29
+C1789,2024-12-30,Starter,Paid Search,UK,29
+C1790,2024-12-30,Pro,Organic,France,99
+C1791,2024-12-30,Pro,Social,USA,99
+C1792,2024-12-30,Pro,Organic,USA,99
+C1793,2024-12-30,Pro,Paid Search,India,99
+C1794,2024-12-30,Starter,Paid Search,USA,29
+C1795,2024-12-30,Enterprise,Social,Canada,399
+C1796,2024-12-30,Starter,Organic,Other,29
+C1797,2024-12-30,Starter,Paid Search,India,29
+C1798,2024-12-30,Starter,Referral,UK,29
+C1799,2024-12-30,Starter,Organic,USA,29
+C1800,2024-12-30,Enterprise,Social,USA,399
+C1801,2024-12-30,Starter,Social,India,29
+C1802,2024-12-30,Starter,Paid Search,USA,29
+C1803,2024-12-30,Pro,Direct,USA,99
+C1804,2024-12-30,Pro,Paid Search,USA,99
+C1805,2024-12-30,Starter,Referral,UK,29
+C1806,2024-12-30,Pro,Paid Search,USA,99
+C1807,2024-12-30,Starter,Referral,USA,29
+C1808,2024-12-30,Pro,Paid Search,USA,99
+C1809,2024-12-30,Starter,Paid Search,USA,29
+C1810,2024-12-30,Starter,Social,India,29
+C1811,2024-12-30,Starter,Paid Search,USA,29
+C1812,2024-12-30,Starter,Organic,France,29
+C1813,2024-12-30,Starter,Organic,USA,29
+C1814,2024-12-30,Starter,Social,USA,29
+C1815,2024-12-30,Starter,Social,USA,29
+C1816,2024-12-30,Pro,Social,USA,99
+C1817,2024-12-30,Pro,Organic,UK,99
+C1818,2024-12-30,Starter,Organic,India,29
+C1819,2024-12-30,Enterprise,Direct,India,399
+C1820,2024-12-30,Starter,Organic,USA,29
+C1821,2024-12-30,Starter,Paid Search,France,29
+C1822,2024-12-30,Starter,Paid Search,USA,29
+C1823,2024-12-30,Pro,Social,India,99
+C1824,2024-12-30,Starter,Referral,USA,29
+C1825,2024-12-30,Enterprise,Paid Search,USA,399
+C1826,2024-12-30,Starter,Social,USA,29
+C1827,2024-12-30,Enterprise,Paid Search,USA,399
+C1828,2024-12-30,Starter,Paid Search,UK,29
+C1829,2024-12-30,Starter,Social,USA,29
+C1830,2024-12-30,Enterprise,Social,Australia,399
+C1831,2024-12-30,Starter,Paid Search,USA,29
+C1832,2024-12-30,Pro,Email,USA,99
+C1833,2024-12-30,Starter,Email,USA,29
+C1834,2024-12-30,Pro,Paid Search,Germany,99
+C1835,2024-12-30,Starter,Organic,UK,29
+C1836,2024-12-30,Enterprise,Paid Search,USA,399
+C1837,2024-12-30,Pro,Email,Germany,99
+C1838,2024-12-30,Enterprise,Organic,USA,399
+C1839,2024-12-30,Pro,Referral,USA,99
+C1840,2024-12-30,Starter,Referral,USA,29
+C1841,2024-12-30,Starter,Paid Search,UK,29
+C1842,2024-12-30,Pro,Paid Search,India,99
+C1843,2024-12-30,Pro,Paid Search,India,99
+C1844,2024-12-30,Starter,Organic,USA,29
+C1845,2024-12-30,Starter,Paid Search,Germany,29
+C1846,2024-12-30,Pro,Referral,USA,99
+C1847,2024-12-30,Starter,Paid Search,USA,29
+C1848,2024-12-30,Starter,Social,Other,29
+C1849,2024-12-30,Starter,Organic,Australia,29
+C1850,2024-12-30,Starter,Referral,Canada,29
+C1851,2024-12-30,Enterprise,Paid Search,India,399
+C1852,2024-12-30,Starter,Social,USA,29
+C1853,2024-12-30,Starter,Paid Search,UK,29
+C1854,2024-12-30,Pro,Referral,India,99
+C1855,2024-12-30,Starter,Referral,UK,29
+C1856,2024-12-30,Enterprise,Email,USA,399
+C1857,2024-12-30,Pro,Organic,USA,99
+C1858,2024-12-30,Pro,Organic,Canada,99
+C1859,2024-12-30,Starter,Organic,India,29
+C1860,2024-12-30,Pro,Email,Canada,99
+C1861,2024-12-30,Pro,Paid Search,USA,99
+C1862,2024-12-30,Starter,Paid Search,Canada,29
+C1863,2024-12-30,Starter,Referral,UK,29
+C1864,2024-12-30,Starter,Organic,Germany,29
+C1865,2024-12-30,Pro,Email,USA,99
+C1866,2024-12-30,Enterprise,Organic,USA,399
+C1867,2024-12-30,Enterprise,Organic,India,399
+C1868,2024-12-30,Starter,Social,France,29
+C1869,2024-12-30,Starter,Social,USA,29
+C1870,2024-12-30,Pro,Paid Search,USA,99
+C1871,2024-12-30,Starter,Organic,France,29
+C1872,2024-12-30,Starter,Organic,USA,29
+C1873,2024-12-30,Starter,Referral,Other,29
+C1874,2024-12-30,Starter,Email,UK,29
+C1875,2024-12-30,Starter,Social,UK,29
+C1876,2024-12-30,Pro,Email,USA,99
+C1877,2024-12-30,Enterprise,Referral,UK,399
+C1878,2024-12-30,Pro,Paid Search,Other,99
+C1879,2024-12-30,Pro,Organic,USA,99
+C1880,2024-12-30,Pro,Organic,USA,99
+C1881,2024-12-30,Starter,Paid Search,USA,29
+C1882,2024-12-30,Starter,Organic,Canada,29
+C1883,2024-12-30,Pro,Organic,USA,99
+C1884,2024-12-30,Pro,Organic,USA,99
+C1885,2024-12-30,Starter,Referral,Australia,29
+C1886,2024-12-30,Pro,Referral,India,99
+C1887,2024-12-30,Starter,Social,USA,29
+C1888,2024-12-30,Pro,Referral,UK,99
+C1889,2024-12-30,Starter,Organic,India,29
+C1890,2024-12-30,Pro,Email,USA,99
+C1891,2024-12-30,Pro,Social,France,99
+C1892,2024-12-30,Pro,Paid Search,India,99
+C1893,2024-12-30,Pro,Direct,USA,99
+C1894,2024-12-30,Starter,Email,UK,29
+C1895,2024-12-30,Pro,Paid Search,USA,99
+C1896,2024-12-30,Pro,Referral,USA,99
+C1897,2024-12-30,Starter,Referral,USA,29
+C1898,2024-12-30,Enterprise,Organic,India,399
+C1899,2024-12-30,Enterprise,Social,USA,399
+C1900,2024-12-30,Pro,Paid Search,USA,99
+C1901,2024-12-30,Enterprise,Referral,India,399
+C1902,2024-12-30,Starter,Organic,USA,29
+C1903,2024-12-30,Pro,Referral,UK,99
+C1904,2024-12-30,Pro,Organic,USA,99
+C1905,2024-12-30,Starter,Paid Search,USA,29
+C1906,2024-12-30,Enterprise,Organic,France,399
+C1907,2024-12-30,Starter,Direct,UK,29
+C1908,2024-12-30,Enterprise,Organic,Canada,399
+C1909,2024-12-30,Enterprise,Organic,USA,399
+C1910,2024-12-30,Starter,Email,UK,29
+C1911,2024-12-30,Pro,Organic,USA,99
+C1912,2024-12-30,Pro,Organic,India,99
+C1913,2024-12-30,Enterprise,Organic,India,399
+C1914,2024-12-30,Starter,Social,USA,29
+C1915,2024-12-30,Pro,Paid Search,UK,99
+C1916,2024-12-30,Pro,Organic,Canada,99
+C1917,2024-12-30,Starter,Social,USA,29
+C1918,2024-12-30,Pro,Organic,USA,99
+C1919,2024-12-30,Starter,Referral,USA,29
+C1920,2024-12-30,Enterprise,Email,USA,399
+C1921,2024-12-30,Pro,Organic,USA,99
+C1922,2024-12-30,Pro,Social,India,99
+C1923,2024-12-30,Starter,Paid Search,USA,29
+C1924,2024-12-30,Pro,Paid Search,Canada,99
+C1925,2024-12-30,Starter,Paid Search,USA,29
+C1926,2024-12-30,Starter,Paid Search,Australia,29
+C1927,2024-12-30,Enterprise,Paid Search,UK,399
+C1928,2024-12-30,Starter,Email,USA,29
+C1929,2024-12-30,Enterprise,Paid Search,USA,399
+C1930,2024-12-30,Enterprise,Organic,India,399
+C1931,2024-12-30,Pro,Organic,USA,99
+C1932,2024-12-30,Pro,Referral,USA,99
+C1933,2024-12-30,Enterprise,Organic,USA,399
+C1934,2024-12-30,Starter,Organic,USA,29
+C1935,2024-12-30,Enterprise,Paid Search,USA,399
+C1936,2024-12-30,Starter,Referral,Germany,29
+C1937,2024-12-30,Starter,Organic,USA,29
+C1938,2024-12-30,Starter,Organic,USA,29
+C1939,2024-12-30,Starter,Paid Search,USA,29
+C1940,2024-12-30,Enterprise,Email,UK,399
+C1941,2024-12-30,Starter,Paid Search,USA,29
+C1942,2024-12-30,Pro,Paid Search,Germany,99
+C1943,2024-12-30,Enterprise,Paid Search,UK,399
+C1944,2024-12-30,Starter,Organic,USA,29
+C1945,2024-12-30,Starter,Email,USA,29
+C1946,2024-12-30,Starter,Social,Canada,29
+C1947,2024-12-30,Starter,Email,UK,29
+C1948,2024-12-30,Starter,Organic,UK,29
+C1949,2024-12-30,Pro,Social,Germany,99
+C1950,2024-12-30,Starter,Organic,USA,29
+C1951,2024-12-30,Starter,Social,Australia,29
+C1952,2024-12-30,Starter,Paid Search,USA,29
+C1953,2024-12-30,Starter,Organic,USA,29
+C1954,2024-12-30,Starter,Organic,USA,29
+C1955,2024-12-30,Starter,Social,USA,29
+C1956,2024-12-30,Enterprise,Organic,USA,399
+C1957,2024-12-30,Starter,Organic,Germany,29
+C1958,2024-12-30,Starter,Email,France,29
+C1959,2024-12-30,Pro,Paid Search,India,99
+C1960,2024-12-30,Starter,Social,USA,29
+C1961,2024-12-30,Starter,Paid Search,UK,29
+C1962,2024-12-30,Enterprise,Organic,Germany,399
+C1963,2024-12-30,Starter,Paid Search,USA,29
+C1964,2024-12-30,Starter,Organic,UK,29
+C1965,2024-12-30,Pro,Paid Search,UK,99
+C1966,2024-12-30,Pro,Referral,UK,99
+C1967,2024-12-30,Starter,Email,India,29
+C1968,2024-12-30,Starter,Organic,Australia,29
+C1969,2024-12-30,Starter,Direct,USA,29
+C1970,2024-12-30,Pro,Paid Search,UK,99
+C1971,2024-12-30,Enterprise,Paid Search,UK,399
+C1972,2024-12-30,Starter,Organic,USA,29
+C1973,2024-12-30,Pro,Organic,USA,99
+C1974,2024-12-30,Starter,Social,Canada,29
+C1975,2024-12-30,Starter,Organic,Other,29
+C1976,2024-12-30,Starter,Email,Germany,29
+C1977,2024-12-30,Pro,Organic,Germany,99
+C1978,2024-12-30,Pro,Social,USA,99
+C1979,2024-12-30,Starter,Organic,UK,29
+C1980,2024-12-30,Pro,Paid Search,UK,99
+C1981,2024-12-30,Starter,Social,France,29
+C1982,2024-12-30,Starter,Paid Search,USA,29
+C1983,2024-12-30,Pro,Referral,Other,99
+C1984,2024-12-30,Starter,Direct,USA,29
+C1985,2024-12-30,Pro,Organic,France,99
+C1986,2024-12-30,Pro,Social,Germany,99
+C1987,2024-12-30,Starter,Organic,Germany,29
+C1988,2024-12-30,Starter,Organic,UK,29
+C1989,2024-12-30,Pro,Organic,USA,99
+C1990,2024-12-30,Starter,Paid Search,France,29
+C1991,2024-12-30,Enterprise,Social,USA,399
+C1992,2024-12-30,Enterprise,Paid Search,USA,399
+C1993,2024-12-30,Enterprise,Referral,Canada,399
+C1994,2024-12-30,Pro,Organic,USA,99
+C1995,2024-12-30,Pro,Organic,USA,99
+C1996,2024-12-30,Pro,Referral,UK,99
+C1997,2024-12-30,Pro,Referral,India,99
+C1998,2024-12-30,Starter,Organic,USA,29
+C1999,2024-12-30,Starter,Organic,USA,29
+C2000,2024-12-30,Starter,Email,USA,29
